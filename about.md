@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+An amateur stained glass artist based in Leeds, West Yorkshire.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Items for sale on Ebay. Commissions Welcome.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[andysglass252@gmail.com](mailto:andysglass252@gmail.com)
