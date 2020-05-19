@@ -17,6 +17,6 @@ The house also had a long metal-framed window on the staircase with a bluebird a
 
 The sunburst is all cut from a single sheet of glass, choosing the light and darker parts for each ray as appropriate. This is made using lead came throughout and hangs on sturdy chains in front of a new window on the same elevation of the house as it was originally. It catches the morning sun and always brightens the day.
 
-A small window using glass elements from the house was made to go in a window in my in-laws' house. This window faces a public footpath and the panel stops people from looking directly in to their house.
+A small window using glass elements from the house was made to go in a window in my Dad's house. This window faces a public footpath and the panel stops people from looking directly in to their house.
 
 ![Small Panel Saddleworth](https://github.com/Harrysdad2/Harrysdad2.github.io/blob/master/images/Small%20Saddleworth.jpg?raw=true)
