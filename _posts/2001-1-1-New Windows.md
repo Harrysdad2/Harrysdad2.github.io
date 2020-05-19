@@ -5,7 +5,7 @@ title: New Windows
 
 We live on quite a long road which shares its name with other roads in the city so it's important that people can see a house number when trying to find us. I designed the '252' in a deco style using transparent glass in clear and blue. The edge is in zinc came which provides a lightweight edge. There is a wire running through the frame to the hanging loops to provide additional strength.
 
-![252]({{ site.baseurl }}/images/252%20Front%20(2).jpg)
+![252]({{ site.baseurl }}/images/252%20Front.jpg)
 
 ![252 back]({{ site.baseurl }}/images/252%20Back.jpg)
 
