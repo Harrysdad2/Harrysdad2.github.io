@@ -8,3 +8,5 @@ This site is a gallery of glass creations made since 1996. There are a variety o
 ![Collage](https://github.com/Harrysdad2/Harrysdad2.github.io/blob/master/images/Collage.jpg?raw=true)
 
 
+![Image description](/images/collage.jpg)
+
