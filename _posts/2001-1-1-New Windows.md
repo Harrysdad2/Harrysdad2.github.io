@@ -3,7 +3,7 @@ layout: post
 title: New Windows
 ---
 
-We live on quite a long road which shares its name with other roads in the city. It's important that people can see a house number when trying to find us. I designed the '252' in a deco style using transparent glass in clear and blue. The edge is in zinc came which provides a lightweight edge/. There is a wire running through the frame to the hanging loops toprovide additional strength.
+We live on quite a long road which shares its name with other roads in the city so it's important that people can see a house number when trying to find us. I designed the '252' in a deco style using transparent glass in clear and blue. The edge is in zinc came which provides a lightweight edge. There is a wire running through the frame to the hanging loops to provide additional strength.
 
 ![252](https://lh3.googleusercontent.com/-XWctqQnuTBaA8lyFXJ_GzUxpmP3CVHXbUhOgVR_yfZ1o1GMjIR3nXYdMCAhToed7Np4m-PAEQL01hrwXslrst-gfVNLzjmM0VH-zTdyi2k7tQTUTVum8H0Bx2mMI88yaq5VwjmFsxGUH7tYLPxWuHzD5HnXfDlVFTXd3NV2_djWAJTW54_ssUDqgKlKlJ_4gt-9AIN4pmw6kFg1hR86xSNulKbgOvUaUcBDNHjaC_ujqGmjvGzsLRyZ3Fjwh-80chbSen6UZF-PNvTBR3Ly3cg9JATcq-55VB4gg2rTl9QNRwCYu1DY7yz70A6chFrqsis0m_BgzbvO7KsEBvYOw_lYun2OwyHIHSLZiDt2vbJz-tk5O2bYRKlyEQPq5vJ_0m24Jm_et0bPFVfYvZC59ZFZm6eETVPDBwo3RXM_KOqPUt327UQi-SpomzVwVp2sIkDcXugg1jCONhDib4nuOLMqltTYSFz9LtPS0FGYLtoHQPoqrU7D_keF3H7NfwohhXcDzxa4k6yGGcFRORK8e_nBzP5OWhlU4CynbY6n1H1Nh2dfniFPrQPRsUGryzF9ELkH6IZMyzEFRvP2spK2hV-G33aNJ-u4q5vlxcUoJ722l39NA4Vxy1fgz6MoGW2x9hHm7rg2J8SXODn6KBgXzBs1jOR3qqk0ldqQD6ovDq5NtkdQ54ppntr15OjZ=w1101-h657-no?authuser=0)
 
