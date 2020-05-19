@@ -7,7 +7,9 @@ In 1998/9 I took an evening class led by Jo-Anne from [Hannah Stained Glass](htt
 
 The design is a green man with a heavily textured dark brown background to represent bark. The light and dark green 'leaves' are clear enough to see movement outside but obscured enough to give a clear view through the door.
 
-![Green Man Window](https://github.com/Harrysdad2/Harrysdad2.github.io/blob/master/images/greenman.jpg?raw=true)(Green Man)
+![Green Man Window]({{ site.baseurl }}/images/greenman.jpg)
+
+(Green Man)
 
 Once complete, the window was fitted into the door against a sheet of laminated glass to provide strength and security. It's still there and looks as good as ever.
 
