@@ -13,9 +13,9 @@ First up is another bluebird. This was inspired by the windows at Blackwell, the
 
 ![Blackwell]({{ site.baseurl }}/images/Blackwell.png)[Window at Blackwell]
 
-![Bluebird]({{ site.baseurl }}//images/DecoBluebird.jpg)
+![Bluebird]({{ site.baseurl }}/images/DecoBluebird.jpg)
 
-![Bluebird2]({{ site.baseurl }}/images/DecoBluebird2.jpg)
+![Bluebird2]({{ site.baseurl }}/images/Decobluebird2.jpg)
 
 The small tree was a tester for the larger one that is In our house.
 
