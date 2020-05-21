@@ -9,7 +9,7 @@ I have a workshop. A bit more than a shed but it is full of motorbikes, tools, �
 
 ![Inside window]({{ site.baseurl }}/images/Windowinside.jpg)
 
-First up is another bluebird. This was inspired by the windows at Blackwell, the Arts & Crafts house at Windermere. Well worth a visit if you’re over that way!
+First up is another bluebird. This was inspired by the windows at [Blackwell](https://www.blackwell.org.uk/){:target="_blank"}, the Arts & Crafts house at Windermere. Well worth a visit if you’re over that way!
 
 ![Blackwell]({{ site.baseurl }}/images/Blackwell.png)[Window at Blackwell]
 
@@ -25,8 +25,7 @@ Top right is a horse-chestnut leaf which the kids think is cannabis(!)
 
 ![Leaf]({{ site.baseurl }}/images/Chestnutleaf.jpg)
 
-Bottom left is a panel just made of random bits of glass. I tried to do as much of this without cutting. It’s a bit odd but was fun to
-do.
+Bottom left is a panel just made of random bits of glass. I tried to do as much of this as possible without cutting. It’s a bit odd but was fun to do.
 
 ![Bits]({{ site.baseurl }}/images/Bits.jpg)
 
