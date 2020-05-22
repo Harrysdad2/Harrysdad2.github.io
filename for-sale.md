@@ -4,7 +4,7 @@ title: Stuff For Sale
 permalink: /for-sale/
 ---
 
-This is a hobby, but occasionally I put pieces of work on[Ebay.](https://www.ebay.co.uk/sch/harrysdad2/m.html){:target="_blank"} This funds new materials and lets me play with new ideas.
+This is a hobby, but occasionally I put pieces of work on [Ebay.](https://www.ebay.co.uk/sch/harrysdad2/m.html){:target="_blank"} This funds new materials and lets me play with new ideas.
 
 I am always happy to talk about something you may like, either related to something you’ve seen on these pages or to help realise an idea that you may have. Please be assured that if I think it is beyond my capabilities I will tell you!
 
