@@ -6,7 +6,12 @@ permalink: /for-sale/
 
 This is a hobby, but occasionally I put pieces of work on [Ebay.](https://www.ebay.co.uk/sch/harrysdad2/m.html){:target="_blank"} This funds new materials and lets me play with new ideas. Current items include:
 
-![Web Reeded]({{ site.baseurl }}/images/webreeded.jpg) ![Black Spider]({{ site.baseurl }}/images/spiderblack.jpg) ![Web Hammered]({{ site.baseurl }}/images/webhammered.jpg) ![Copper spider]({{ site.baseurl }}/images/spidercopper.jpg) ![Bat 1]({{ site.baseurl }}/images/bat1.jpg) ![Bat 2]({{ site.baseurl }}/images/bat2.jpg)
+![Web Reeded]({{ site.baseurl }}/images/webreeded.jpg)
+![Black Spider]({{ site.baseurl }}/images/spiderblack.jpg)
+![Web Hammered]({{ site.baseurl }}/images/webhammered.jpg)
+![Copper spider]({{ site.baseurl }}/images/spidercopper.jpg)
+![Bat 1]({{ site.baseurl }}/images/bat1.jpg)
+![Bat 2]({{ site.baseurl }}/images/bat2.jpg)
 
 I am always happy to talk about something you may like, either related to something you’ve seen on these pages or to help realise an idea that you may have. Please be assured that if I think it is beyond my capabilities I will tell you!
 
