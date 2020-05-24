@@ -8,7 +8,7 @@ The new home for the door also had a transom window, but it was a different shap
 
 ![Main Door Window]({{ site.baseurl }}/images/doormain.jpg)
 
-The large window in the door was dismantled carefully and the glass cleaned of a century of grime and lead cement. The green glass around the central flower was all broken as were a few other panes. New glass was sources for some of it and a piece of one of the other windows was identified to replace part of the yellow circle with a near match new glass found to use on the other windows. The whole window was then rebuilt using new lead, soldered and cemented.
+The large window in the door was dismantled carefully and the glass cleaned of a century of grime and lead cement. The green glass around the central flower was all broken as were a few other panes. New glass was sourced for some of it and a piece of one of the other windows was identified to replace part of the yellow circle with a near match new glass found to use on the other windows. The whole window was then rebuilt using new lead, soldered and cemented.
 
 ![Small Door Window]({{ site.baseurl }}/images/doorsmall.jpg)
 
