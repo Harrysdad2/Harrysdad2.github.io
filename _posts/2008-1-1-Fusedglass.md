@@ -3,7 +3,7 @@ layout: post
 title: Fused Glass
 ---
 
-In early 2016 I did one of Jo’s one day taster sessions in fused glass at [Hannah Stained Glass](https://www.hannahstainedglass.com/){:target="_blank"}. In addition to good food and company, I learnt how to use glass sheet, powders and frits (like glass gravel) to make an obect. Using a base of clear glass, you build up a picture which is then fused in Jo’s kiln. There is a lot of science to it and a whole load of different techniques but the process is fun and very therapeutic. My piece of work was a representation of our house and garden.
+In early 2016 I did one of Jo’s one day taster sessions in fused glass at [Hannah Stained Glass](https://www.hannahstainedglass.com/){:target="_blank"}. In addition to good food and company, I learnt how to use glass sheet, powders and frits (like glass gravel) to make an object. Using a base of clear glass, you build up a picture which is then fused in Jo’s kiln. There is a lot of science to it and a whole load of different techniques but the process is fun and very therapeutic. My piece of work was a representation of our house and garden.
 
 ![Garden]({{ site.baseurl }}/images/garden.jpg)
 
