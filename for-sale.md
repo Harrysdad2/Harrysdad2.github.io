@@ -26,3 +26,8 @@ Typically a small tiffany-style piece will be around £25. An obelisk will be be
 
 I’m always happy to discuss a project. Contact me on [andysglass252@gmail.com](mailto:andysglass252@gmail.com)
 
+In Progress:
+
+I'm currently putting an obelisk together which will go on Ebay when complete. The glass is about 200mm x 400mm and looks like this:
+
+![New Obelisk]({{ site.baseurl }}/images/obelisk4.jpg)
