@@ -4,7 +4,7 @@ title: Stuff For Sale
 permalink: /for-sale/
 ---
 
-This is a hobby, but occasionally I put pieces of work on [Ebay.](https://www.ebay.co.uk/sch/harrysdad2/m.html){:target="_blank"} This funds new materials and lets me play with new ideas. Current items include:
+This is a hobby, but occasionally I put pieces of work on [Etsy](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"} or [Ebay.](https://www.ebay.co.uk/sch/harrysdad2/m.html){:target="_blank"} This funds new materials and lets me play with new ideas. Current items include:
 
 ![Web Reeded]({{ site.baseurl }}/images/webreeded.jpg)
 
