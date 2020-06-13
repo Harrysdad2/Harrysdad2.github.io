@@ -28,8 +28,12 @@ I’m always happy to discuss a project. Contact me on [andysglass252@gmail.com]
 
 In Progress:
 
-I'm currently putting an obelisk together which will go on [Etsy](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"} when complete. The glass is about 200mm x 400mm and looks like this:
+I've put another obelisk together which is now on [Etsy](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"}. The glass is about 200mm x 400mm and looks like this:
 
 ![New Obelisk Glass]({{ site.baseurl }}/images/obelisk41.jpg)[On the Board]
 
 ![New Obelisk]({{ site.baseurl }}/images/obelisk4.jpg)[Sun on and sun behind]
+
+The finished obelisk:
+
+![Obelisk 4]({{ site.baseurl }}/images/obelisk4finished.jpg)
