@@ -28,6 +28,6 @@ I decided to make a simplified rectangular obelisk to try to sell. This one now 
 
 I now have a new obelisk for sale in my [Etsy shop.](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"}.
 
-![Obelisk  4]({{ site.baseurl }}/images/obeliskfinished.jpg)
+![Obelisk  4]({{ site.baseurl }}/images/obelisk4finished.jpg)
 
 I’d love to make more of these obelisks and would welcome enquiries to [andysglass252@gmail.com](mailto:andysglass252@gmail.com)
