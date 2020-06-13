@@ -20,13 +20,15 @@ My second obelisk was made as payment to a good friend in exchange for her profe
 ![Obelisk  2 Wood]({{ site.baseurl }}/images/obelisk2wood.jpg)
 ![Obelisk  2 Finished]({{ site.baseurl }}/images/obelisk2finished.jpg)
 
-I decided to make a simplified rectangular obelisk to try to sell. This one now resides in a peaceful garden used by a therapy centre in Sheffield.
+![Obelisk  2 In-Situ]({{ site.baseurl }}/images/obelisk2insitu.jpg)
+
+I then decided to make a simplified rectangular obelisk to try to sell. This one now resides in a peaceful garden used by a therapy centre in Sheffield.
 
 ![Obelisk  3 Glass]({{ site.baseurl }}/images/obelisk3glass.jpg)
 ![Obelisk  3]({{ site.baseurl }}/images/obelisk3finished.jpg)
 ![Obelisk  3 Reflections]({{ site.baseurl }}/images/obelisk3reflections.jpg)
 
-I now have a new obelisk for sale in my [Etsy shop.](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"}.
+I currently have a new obelisk for sale in my [Etsy shop.](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"}.
 
 ![Obelisk  4]({{ site.baseurl }}/images/obelisk4finished.jpg)
 
