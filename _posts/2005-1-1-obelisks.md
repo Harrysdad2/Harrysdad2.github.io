@@ -37,4 +37,4 @@ I currently have a new obelisk for sale in my [Etsy shop.](https://www.etsy.com/
 
 ![Obelisk  4]({{ site.baseurl }}/images/obelisk4finished.jpg)
 
-I’d love to make more of these obelisks and would welcome enquiries to [andysglass252@gmail.com](mailto:andysglass252@gmail.com)
+I’d love to make more of these obelisks and would welcome enquiries to [andysglass252@gmail.com](mailto:andysglass252@gmail.com). An obelisk typically costs between £200 and £400 plus transport, depending on the size, complexity and degree of work required.
