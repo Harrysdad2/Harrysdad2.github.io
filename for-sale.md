@@ -20,6 +20,8 @@ This is a hobby, but occasionally I put pieces of work on [Etsy](https://www.ets
 
 ![Yorks Rose]({{ site.baseurl }}/images/yorkshirerose2.jpg)
 
+![Lancs Rose]({{ site.baseurl }}/images/lancashirerose.jpg)
+
 I am always happy to talk about something you may like, either related to something you’ve seen on these pages or to help realise an idea that you may have. Please be assured that if I think it is beyond my capabilities I will tell you!
 
 I try to make my prices as realistic as possible. The cost of glass can vary enormously depending on colour, whether it is machine or hand made, patterns and finishes. Of course, the time taken to make an item is significant too. One of the bats above takes over 4 hours to make from start to finish. The Liverpool FC crest too 20 hours! They really are hand made and unique!
