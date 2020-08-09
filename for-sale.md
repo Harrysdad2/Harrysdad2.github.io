@@ -26,9 +26,9 @@ I am always happy to talk about something you may like, either related to someth
 
 I try to make my prices as realistic as possible. The cost of glass can vary enormously depending on colour, whether it is machine or hand made, patterns and finishes. Of course, the time taken to make an item is significant too. One of the bats above takes over 4 hours to make from start to finish. The Liverpool FC crest took 20 hours. They really are hand made and unique!
 
-Typically a small tiffany-style piece will be around £25. An obelisk will be between £200 and £400. Windows depend on the size and degree of work involved.
+Typically a small tiffany-style piece will be around £25. An obelisk will be between £200 and £400, see my [obelisks page](https://andy.merckel.uk/obelisks/){:target="_blank"}. Windows depend on the size and degree of work involved.
 
-I’m always happy to discuss a project. Contact me on [andysglass252@gmail.com](mailto:andysglass252@gmail.com)
+I’m always happy to discuss a project. Contact me on [andysglass252@gmail.com](mailto:andysglass252@gmail.com). 
 
 New- Summer 2020:
 
