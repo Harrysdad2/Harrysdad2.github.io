@@ -46,6 +46,8 @@ I enjoyed this course so decided to repeat the experience in February this year.
 
 ![Fish 2]({{ site.baseurl }}/images/fish2.jpg)
 
-Next up was a gecko, using the same techniques used on the fish. Unfortunately the pandemic lockdown stopped play so the gecko was last seen by me waiting for its first fuse. When we get back I’ll be able to finish it off!
+Next up was a gecko, using the same techniques used on the fish. Unfortunately the pandemic lockdown stopped play so the gecko had to wait until July before I was able to finish it off. The final picture shows the two windows in place with a background of summer flowers.
 
 ![Gecko]({{ site.baseurl }}/images/trianglegecko.jpg)
+![Gecko1]({{ site.baseurl }}/images/gecko.jpg)
+![Fish and Gecko]({{ site.baseurl }}/images/fishgecko.jpg)
