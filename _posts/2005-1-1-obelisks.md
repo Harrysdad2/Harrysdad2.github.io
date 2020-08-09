@@ -28,6 +28,10 @@ I then decided to make a simplified rectangular obelisk to try to sell. This one
 ![Obelisk  3]({{ site.baseurl }}/images/obelisk3finished.jpg)
 ![Obelisk  3 Reflections]({{ site.baseurl }}/images/obelisk3reflections.jpg)
 
+In July 2020 I was contacted by a lovely lady called Pam who wanted to commission an obekisk. She had a clear idea of what she was looking for and sketches were done and an obelisk mocked up to allow us to agree on what was wanted. I absolutely loved making this panel and both I amd Pam were pleased with the finished product. It was sent to her home via courier and is now awaiting final installation.
+
+![Pams Obelisk 1]({{ site.baseurl }}/images/pamsobelisk1.jpg)
+![Pams Obelisk 2]({{ site.baseurl }}/images/pamsobelisk2.jpg)
 I currently have a new obelisk for sale in my [Etsy shop.](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"}.
 
 ![Obelisk  4]({{ site.baseurl }}/images/obelisk4finished.jpg)
