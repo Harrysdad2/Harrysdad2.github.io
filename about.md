@@ -8,7 +8,7 @@ I'm an amateur stained glass artist based in Leeds, West Yorkshire. Many of the 
 
 ### More Information
 
-I have a few smaller items for sale on [Etsy](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"} or [Ebay](https://www.ebay.co.uk/sch/harrysdad2/m.html){:target="_blank"}. Commissions, large or small, are always welcome and I would be very happy to discuss your requirements.
+I have a few smaller items for sale on [Etsy](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"}. Commissions, large or small, are always welcome and I would be very happy to discuss your requirements.
 
 ### Contact me
 
