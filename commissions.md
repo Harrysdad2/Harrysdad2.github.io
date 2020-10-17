@@ -35,4 +35,6 @@ Once the lead was in place the solder lines were beaded and cleaned thoroughly. 
 
 The final three images of this piece show it on the light-box, with light on the front and against natural light in the garden. They properly illustrate how the glass changes and provides constant interest.
 
-![Owl 1]({{ site.baseurl }}/images/owl 1.jpg)![Owl 2]({{ site.baseurl }}/images/owl 2.jpg)![Owl 3]({{ site.baseurl }}/images/owl 3.jpg)
+![Owl 1]({{ site.baseurl }}/images/owl 1.jpg)
+![Owl 2]({{ site.baseurl }}/images/owl 2.jpg)
+![Owl 3]({{ site.baseurl }}/images/owl 3.jpg)
