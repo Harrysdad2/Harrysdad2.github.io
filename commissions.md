@@ -5,7 +5,9 @@ permalink: /commissions/
 ---
 I am always happy to talk about something you may like, either related to something you’ve seen on these pages or to help realise an idea that you may have. Please be assured that if I think it is beyond my capabilities I will tell you!
 
-Contact me on [andysglass252@gmail.com](mailto:andysglass252@gmail.com). 
+Typically a small tiffany-style piece will be around £25. A suncatcher will depend on size and complexity, but is likely to be £50 to £200. An obelisk will be between £200 and £400. Windows depend on the size and degree of work involved.
+
+Contact me on [andysglass252@gmail.com](mailto:andysglass252@gmail.com) if you would like to look at the possibilities. 
 
 Details of a few recent commissions are outlined below to give you an idea of the process that I like to follow. It is vital that we both understand what is expected and that you get what you want.
 
