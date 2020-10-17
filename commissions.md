@@ -66,3 +66,4 @@ The final three images of this piece show it on the light-box, with light on the
 
 I handed over this panel in person when we met at a point midway between our homes. I'm happy to report that Alison is very pleased with her commission and it now resides in the South Lakes, near Morecambe Bay.
 
+I have also made/restored windows. Check out the [door set.](https://andy.merckel.uk/victorianwindow/){:target="_blank"}
