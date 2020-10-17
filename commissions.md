@@ -31,7 +31,7 @@ This was sent to it's new home near Peterborough using a courier collect and del
 
 Pam was very pleased with the obelisk...
 
-![Noe]({{ site.baseurl }}/images/pam note.jpg)
+![Note]({{ site.baseurl }}/images/pam note.png)
 
 ### Alison's Owl & Sunflowers Panel
 
