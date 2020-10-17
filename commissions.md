@@ -29,7 +29,7 @@ Once the glass was cut I applied the foil then pinned and soldered sections into
 
 ![Owl Solder]({{ site.baseurl }}/images/owl solder.jpg)
 
-Once the lead was in place the solder lines were beaded and cleaned thoroughly. A black patina was applied the panel was polished before a chain was attached.
+With the lead in place the solder lines were beaded and cleaned thoroughly. A black patina was applied and the panel was polished before a hanging chain was attached.
 
 ![Owl Details]({{ site.baseurl }}/images/owl details.jpg)
 
