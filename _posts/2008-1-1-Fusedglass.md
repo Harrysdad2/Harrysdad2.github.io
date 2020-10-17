@@ -51,3 +51,7 @@ Next up was a gecko, using the same techniques used on the fish. Unfortunately t
 ![Gecko]({{ site.baseurl }}/images/trianglegecko.jpg)
 ![Gecko1]({{ site.baseurl }}/images/gecko.jpg)
 ![Fish and Gecko]({{ site.baseurl }}/images/fishgecko.jpg)
+
+My wife sews. She love patchwork, piecework and quilting. For our 29th wedding anniverary on Setember 202 I decided to make a fused glass piece in a pattern she has used a number of times called 'Family tree' by Kellie Wulfsohn. The tree trunk was made up of small pieces of a brown/cream galss laid like a mosaic and the leaves were cut from a wide variety of fusible glass. The four birds, two blue, two pink, represent our family. The pictures below show a quilted cushion and my interpretation in glass!
+
+![Cushion]({{ site.baseurl }}/images/family tree cushion.jpg)![Family Tree]({{ site.baseurl }}/images/family tree 1.jpg)
