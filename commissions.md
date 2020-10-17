@@ -3,7 +3,7 @@ layout: page
 title: Commissions
 permalink: /commissions/
 ---
-I am always happy to talk about something you may like, either related to something you’ve seen on these pages or to help realise an idea that you may have. Please be assured that if I think it is beyond my capabilities I will tell you!
+I am always happy to talk about something you may like, either related to something you’ve seen on these pages or to help realise an idea that you may have. Please be assured that if I think it is beyond my capabilities I will tell you! Contact me on [andysglass252@gmail.com](mailto:andysglass252@gmail.com). 
 
 Details of a few recent commissions are outlined below to give you an idea of the process that I like to follow. It is vital that we both understand what is expected and that you get what you want.
 
