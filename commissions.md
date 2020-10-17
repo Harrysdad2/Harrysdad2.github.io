@@ -21,16 +21,18 @@ For this commission I opted to makes the sunflowers out of five pieces of glass,
 
 ![Sunflower Test]({{ site.baseurl }}/images/sunflower test.jpg)
 
-I agreed with Alison that the centre should be a darker glass, so constuction started using a deeper shade of amber.
+I agreed with Alison that the centre should be a darker glass, so constuction started using a deeper shade of amber. As part of the painting process I also added eyes to the owl and the rabbit.
 
 ![Owl Construction]({{ site.baseurl }}/images/owl construction.jpg)
 
-On this piece I foiled glass as cutting progressed and pinned then soldered sections into place to ensure a good fit.
+On this piece I foiled glass as cutting progressed and pinned then soldered sections into place to ensure a good fit. Once the centre pf the panel was completed I added a border using 'H' section lead with 'C' section to the outside. The hanging loops are made out of silver-plated copper wire loops. The stem is passed through a small hole in the lead, bent and soldered into place.
 
 ![Owl Solder]({{ site.baseurl }}/images/owl solder.jpg)
 
-
+Once the lead was in place the solder lines were beaded and cleaned thoroughly. A black patina was applied the panel was polished before a chain was attached.
 
 ![Owl Details]({{ site.baseurl }}/images/owl details.jpg)
 
+The final three images of this piece show it on the light-box, with light on the front and against natural light in the garden. They properly illustrate how the glass changes and provides constant interest.
 
+![Owl 1]({{ site.baseurl }}/images/owl 1.jpg)![Owl 2]({{ site.baseurl }}/images/owl 2.jpg)![Owl 3]({{ site.baseurl }}/images/owl 3.jpg)
