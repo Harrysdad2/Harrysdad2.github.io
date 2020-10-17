@@ -9,7 +9,15 @@ Details of a few recent commissions are outlined below. I like to get as much in
 
 ### Pam's Obelisk
 
+Pam found this website and contacted me about commissioning an obelisk. Pam had a very clear idea of what she would like so creating a design was relatively straightforward and, other than a change in shape (to give the obelisk a sloped top) involved very little adjustment.
 
+A fundamental part of this design were the circles of textured clear glass. I leaded these as soon as they were cut using some soft wire to hold the lead in place so they could be soldered, ensuring a perfect circle. Once glass choices had been made, this panel went together quickly and was great fun. The final part of the process was to cement the panel and then clean and polish everything.
+
+As shown on the Obelisk page, the timber was planed, cut to size and I filled any cracks with epoxy resin. The recess for the glass was made using a router and was cut from both sides - much measuring and checking! The timber was finished using a water-repellant product that does not change the colour or texture of the timber. The glass was set into place using putty and a timber bead nailed in place using stainless steel pins.
+
+![Finished obelisk]({{ site.baseurl }}/images/pamsobelisk1.jpg)
+
+This was sent to it's new home near Peterborough using a courier collect and deliver service. Clearly it had to be properly packed and many cardboard boxes were re-purposed in doing this!
 
 ### Alison's Owl & Sunflowers Panel
 
@@ -21,7 +29,7 @@ For this commission I opted to makes the sunflowers out of five pieces of glass,
 
 ![Sunflower Test]({{ site.baseurl }}/images/sunflower test.jpg)
 
-I agreed with Alison that the centre should be a darker glass, so constuction started using a deeper shade of amber. As part of the painting process I also added eyes to the owl and the rabbit.
+I agreed with Alison that the centre should be a darker glass, so construction started using a deeper shade of amber. As part of the painting process I also added eyes to the owl and the rabbit.
 
 ![Owl Construction]({{ site.baseurl }}/images/owl construction.jpg)
 
@@ -38,3 +46,6 @@ The final three images of this piece show it on the light-box, with light on the
 ![Owl 1]({{ site.baseurl }}/images/owl 1.jpg)
 ![Owl 2]({{ site.baseurl }}/images/owl 2.jpg)
 ![Owl 3]({{ site.baseurl }}/images/owl 3.jpg)
+
+I'm happy to report that Alison is very pleased with her commission and it now resides in the South Lakes, near Morecambe Bay.
+
