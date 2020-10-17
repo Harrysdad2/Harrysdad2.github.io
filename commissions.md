@@ -5,7 +5,8 @@ permalink: /commissions/
 ---
 I am always happy to talk about something you may like, either related to something you’ve seen on these pages or to help realise an idea that you may have. Please be assured that if I think it is beyond my capabilities I will tell you!
 
-Details of a few recent commissions are outlined below. I like to get as much information as possible about what a customer would like, where the item is to go, particular colours etc. We'll agree a price at this point and a deposit will be paid. I'll produce sketch designs and swap notes making changes as we go. If there are any significant changes during this process we may agree a revised price. Once we have a design agreed then I'll draw up the working plan and start to gather glass. This is either from stock or I'll buy in particular pieces as required. I will share a set of photos as work progresses so that the customer can follow the process. Once complete we arrange delivery which may be in person or using a courierwith the remaining payment made on despatch.
+Details of a few recent commissions are outlined below to give you an idea of the process that I like to follow. It is vital that we both understand what is expected and that you get what you want
+I like to get as much information as possible about what a customer would like, where the item is to go, particular colours etc. We'll agree a price (plus delivery) at this point and a deposit will be paid. I'll produce sketch designs and swap notes making changes as we go. If there are any significant changes during this process we may agree a revised price. Once we have a design agreed then I'll draw up the working plan and start to gather glass. This is either from stock or I'll buy in particular pieces as required. I will share a set of photos as work progresses so that the customer can follow the process. Once complete the remaining payment is made and we arrange delivery. This may be in person or using a courier.
 
 ### Pam's Obelisk
 
@@ -27,6 +28,10 @@ This was sent to it's new home near Peterborough using a courier collect and del
 
 ![Details]({{ site.baseurl }}/images/pam details.jpg)
 ![Finished obelisk]({{ site.baseurl }}/images/pamsobelisk1.jpg)
+
+Pam was very pleased with the obelisk...
+
+![Noe]({{ site.baseurl }}/images/pam note.jpg)
 
 ### Alison's Owl & Sunflowers Panel
 
@@ -56,5 +61,5 @@ The final three images of this piece show it on the light-box, with light on the
 ![Owl 2]({{ site.baseurl }}/images/owl 2.jpg)
 ![Owl 3]({{ site.baseurl }}/images/owl 3.jpg)
 
-I'm happy to report that Alison is very pleased with her commission and it now resides in the South Lakes, near Morecambe Bay.
+I handed over this panel in person when we met at a point midway between our homes. I'm happy to report that Alison is very pleased with her commission and it now resides in the South Lakes, near Morecambe Bay.
 
