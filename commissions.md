@@ -15,11 +15,9 @@ Pam found this website and contacted me about commissioning an obelisk. Pam had 
 
 A fundamental part of this design were the circles of textured clear glass. I leaded these as soon as they were cut using some soft wire to hold the lead in place so they could be soldered, ensuring a perfect circle. Once glass choices had been made, this panel went together quickly and was great fun. The final part of the process was to cement the panel and then clean and polish everything.
 
-![Circle]({{ site.baseurl }}/images/pams circle.jpg)
-
-![Construction]({{ site.baseurl }}/images/pams construction.jpg)
-
-![Panel]({{ site.baseurl }}/images/pams panel.jpg)
+![Circle]({{ site.baseurl }}/images/pam circle.jpg)
+![Construction]({{ site.baseurl }}/images/pam construction.jpg)
+![Panel]({{ site.baseurl }}/images/pam panel.jpg)
 
 As shown on the Obelisk page, the timber was planed, cut to size and I filled any cracks with epoxy resin. The recess for the glass was made using a router and was cut from both sides - much measuring and checking! The timber was finished using a water-repellant product that does not change the colour or texture of the timber. The glass was set into place using putty and a timber bead nailed in place using stainless steel pins.
 
