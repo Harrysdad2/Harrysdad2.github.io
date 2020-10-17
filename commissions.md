@@ -25,7 +25,7 @@ I agreed with Alison that the centre should be a darker glass, so constuction st
 
 ![Owl Construction]({{ site.baseurl }}/images/owl construction.jpg)
 
-On this piece I foiled glass as cutting progressed and pinned then soldered sections into place to ensure a good fit. Once the centre pf the panel was completed I added a border using 'H' section lead with 'C' section to the outside. The hanging loops are made out of silver-plated copper wire loops. The stem is passed through a small hole in the lead, bent and soldered into place.
+Once the glass was cut I applied the foil then pinned and soldered sections into place checking and adjusting fit as I went. Once the centre of the panel was completed I added a border of textured clear glass using 'H' section lead with 'C' section to the outside. The hanging loops are made out of silver-plated copper wire loops. The stem of the loop is passed through a small hole in the lead, bent and soldered into place.
 
 ![Owl Solder]({{ site.baseurl }}/images/owl solder.jpg)
 
