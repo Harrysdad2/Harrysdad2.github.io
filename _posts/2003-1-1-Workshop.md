@@ -3,7 +3,7 @@ layout: post
 title: Workshop Window
 ---
 
-I have a workshop. A bit more than a shed but it is full of motorbikes, tools, ‘stuff’ and several shelves of glass. There are two windows in the shed, both wooden framed with nine panes of glass in each. I’ve used one of these for a few bits and pieces of glasswork – mainly to try out ideas.
+There are two windows in my shed, both with nine panes of glass. I’ve used one of these for a few bits and pieces of glasswork – mainly to try out ideas.
 
 ![Whole window]({{ site.baseurl }}/images/Shed.jpg)
 
