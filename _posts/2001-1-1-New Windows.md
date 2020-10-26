@@ -3,13 +3,13 @@ layout: post
 title: New Windows
 ---
 
-We live on quite a long road which shares its name with other roads in the city so it's important that people can see a house number when trying to find us. I designed the '252' in a deco style using transparent glass in clear and blue. The edge is in zinc came which provides a lightweight edge. There is a wire running through the frame to the hanging loops to provide additional strength.
+When you live on a long road it's important that people can see a house number. I designed this '252' for  a client in a deco style using transparent glass in clear and blue. The edge is in zinc came which provides a lightweight edge. There is a wire running through the frame to the hanging loops to provide additional strength.
 
 ![252]({{ site.baseurl }}/images/252%20Front.jpg)
 
 ![252 back]({{ site.baseurl }}/images/252%20Back.jpg)
 
-I was also asked by my Dad to do a window for an extension to his house. The window faces the driveway and he wanted something that he could see enough through to know if someone was there, but to reduce the view into the house. I chose to do another sunburst and borrowed the bluebird design from our own home.
+I was also asked by my Dad to do a window for an extension to his house. The window faces the driveway and he wanted something that he could see enough through to know if someone was there, but to reduce the view into the house. I chose to do another sunburst and borrowed the bluebird design from our own home. It's better than net curtains!
 
 ![Dads Window]({{ site.baseurl }}/images/dadswindow.jpg)
 
@@ -19,6 +19,6 @@ Following an idea from an american book, I also made a tree as a piece of wall a
 
 ![Tree]({{ site.baseurl }}/images/Tree%20Panel.jpg)
 
-At the rear of our house we have a bay window. Much as we love our neigbours, the side window looks out across the back of their house. To provide a little privacy, for both of us, I made a panel to hang in the lower part of the window (think net curtain...). This panel was inspired by windows in the house at [Cragside](https://www.nationaltrust.org.uk/cragside){:target="_blank"} in Northumberland. The upstairs landing wraps around a small courtyard which is full of drainage pipes etc. The windows let a good deal of light in but completely obscure the functional outside workings. I was particularly attracted by the way that the clear reeded glass reflects different colours depending on the angle of the reeds. The panel below is made of clear glass, but the picture shows how the glass picks up the colours of the sky, trees, houses etc beyond.
+At the rear of our house we have a bay window. Much as we love our neigbours, the side window looks out across the back of their house. To provide a little privacy, for both of us, I made a panel to hang in the lower part of the window (think net curtain again...). This panel was inspired by windows in the house at [Cragside](https://www.nationaltrust.org.uk/cragside){:target="_blank"} in Northumberland. The upstairs landing wraps around a small courtyard which is full of drainage pipes etc. The windows let a good deal of light in but completely obscure the functional outside workings. I was particularly attracted by the way that the clear reeded glass reflects different colours depending on the angle of the reeds. The panel below is made of clear glass, but the picture shows how the glass picks up the colours of the sky, trees, houses etc beyond.
 
 ![Panel]({{ site.baseurl }}/images/Reeded%20Panel.jpg)
