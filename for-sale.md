@@ -18,7 +18,11 @@ This is a hobby, but occasionally I put pieces of work on [Etsy](https://www.ets
 
 There are a few Christmas decorations and suncatchers also now available. Take a look! [Etsy](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"}
 
-![christmas tree]({{ site.baseurl }}/images/christmas tree.jpg)![rainbow tree]({{ site.baseurl }}/images/rainbow tree.jpg)![baubles]({{ site.baseurl }}/images/baubles.jpg)![suncatcher large]({{ site.baseurl }}/images/suncatcher large.jpg)![suncatchers small]({{ site.baseurl }}/images/suncatchers small.jpg)
+![christmas tree]({{ site.baseurl }}/images/christmas tree.jpg)
+
+The rainbow tree sold out quickly, but ask if you want one!
+![rainbow tree]({{ site.baseurl }}/images/rainbow tree.jpg)
+![baubles]({{ site.baseurl }}/images/baubles.jpg)![suncatcher large]({{ site.baseurl }}/images/suncatcher large.jpg)![suncatchers small]({{ site.baseurl }}/images/suncatchers small.jpg)
 
 I try to make my prices as realistic as possible. The cost of glass can vary enormously depending on colour, whether it is machine or hand made, patterns and finishes. Of course, the time taken to make an item is significant too. One of the bats above takes over 4 hours to make from start to finish. The Liverpool FC crest took 20 hours. They really are hand made and unique!
 
