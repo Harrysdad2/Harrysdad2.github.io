@@ -8,7 +8,7 @@ I'm a part-time stained glass artist based in Leeds, West Yorkshire. Many of the
 
 ### More Information
 
-I have a few smaller items for sale on [Etsy](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"}. Commissions, large or small, are always welcome and I would be very happy to discuss your requirements. See my [Commissions](https://andy.merckel.uk/commissions/){:target="_blank"} for more details.
+I have a few smaller items for sale on [Etsy](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"}. Commissions, large or small, are always welcome and I would be very happy to discuss your requirements. See my [Commissions](https://andy.merckel.uk/commissions/){:target="_blank"} page for more details.
 
 ### Contact me
 
