@@ -18,7 +18,7 @@ Any shape can be done, within reason!
 ![Bat]({{ site.baseurl }}/images/bat2.jpg)
 
 A set of 100mm diameter circles in different colourways:
-![Suncatchers]({{ site.baseurl }}/images/suncatcherssmall.jpg)
+![Suncatchers]({{ site.baseurl }}/images/suncatchers small.jpg)
 
 A 100mm diameter circle in the style of Mondrian:
 ![Suncatcher Geo]({{ site.baseurl }}/images/suncatchergeo.jpg)
