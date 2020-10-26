@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm an amateur stained glass artist based in Leeds, West Yorkshire. Many of the items shown on this site have been made for my own pleasure and use. Others, identified in the posts, have been made to sell or have been commissions.
+I'm a part-time stained glass artist based in Leeds, West Yorkshire. Many of the items shown on this site have been made for my own pleasure and use. Others, identified in the posts, have been made to sell or have been commissions.
 
 ### More Information
 
-I have a few smaller items for sale on [Etsy](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"}. Commissions, large or small, are always welcome and I would be very happy to discuss your requirements.
+I have a few smaller items for sale on [Etsy](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"}. Commissions, large or small, are always welcome and I would be very happy to discuss your requirements. See my [Commissions](https://andy.merckel.uk/commissions/){:target="_blank"} for more details.
 
 ### Contact me
 
