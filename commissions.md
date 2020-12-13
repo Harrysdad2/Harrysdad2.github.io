@@ -70,7 +70,7 @@ I handed over this panel in person when we met at a point midway between our hom
 
 ## Garden Obelisk
 
-A friend commissioned this obelisk with her wider family as a present for their parents. The brief was for an 'organic' shape and it needed to include some specific colours. I sketched up some ideas andthe family swapped notes and voted. Once we had that agreement the work progressed fairly quickly. The construction of the obelisk was very similar to my earlier ones.
+A friend commissioned this obelisk with her wider family as a present for their parents. The brief was for an 'organic' shape and it needed to include some specific colours. I sketched up some ideas and the family swapped notes and voted. Once we had that agreement the work progressed fairly quickly. The construction of the obelisk was very similar to my earlier ones.
 
 When I built the original obelisk the glass was pinned in place and I used linseed oil putty to seal it. Over time the putty has dried out and cracked - not very pretty! On the rectangular obelisks the glass is fixed using a wooden trim which works really well. For this one I used lengths of 6mm x 12mm pine for the long sides and laminated 2mm x 12mm pine strips steamed to form the curved top and bottom. It's worked well and I'm pleased with the finished item.
 
