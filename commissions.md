@@ -68,4 +68,17 @@ The final three images of this piece show it on the light-box, with light on the
 
 I handed over this panel in person when we met at a point midway between our homes. I'm happy to report that Alison is very pleased with her commission and it now resides in the South Lakes, near Morecambe Bay.
 
+## Garden Obelisk
+
+A friend commissioned this obelisk with her wider family as a present for their parents. The brief was for an 'organic' shape and it needed to include some specific colours. I sketched up some ideas andthe family swapped notes and voted. Once we had that agreement the work progressed fairly quickly. The construction of the obelisk was very similar to my earlier ones.
+
+When I built the original obelisk the glass was pinned in place and I used linseed oil putty to seal it. Over time the putty has dried out and cracked - not very pretty! On the rectangular obelisks the glass is fixed using a wooden trim which works really well. For this one I used lengths of 6mm x 12mm pine for the long sides and laminated 2mm x 12mm pine strips steamed to form the curved top and bottom. It's worked well and I'm pleased with the finished item.
+
+![Obelisk]({{ site.baseurl }}/images/anslow obelisk.jpg)
+![Reflections]({{ site.baseurl }}/images/anslow reflections.jpg)
+
+As usual, I took photos during the work and shared the album with the client. The finished obelisk was unveiled by the family on Zoom from their homes across the country and I took it along to the new owners shortly afterwards and installed it with them. They have a lovely south-facing garden in north Leeds which is narrow near the house and widens out part way down. The obelisk is now sat at the point where the garden widens and can be seen from the house and patio as well as from vantage points further down the garden. It was a damp grey December day when it was installed so the owners will need to wait for better weather to appreciate the glass in its true glory!
+
+![Installed]({{ site.baseurl }}/images/anslow installed.jpg)
+
 I have also made/restored windows. Check out the [door set.](https://andy.merckel.uk/victorianwindow/){:target="_blank"}
