@@ -70,11 +70,10 @@ I handed over this panel in person when we met at a point midway between our hom
 
 ## Carole's Squirrels
 
-Following the owl panel, I was commissioned to make a panel with squirrels in it. The brief was grey & red squirrels, the name 'Carole' and her signature swirl with flowers below. Knowing Carole, I knew I could be a little quirky with the panel! The other challenge was that it would hang on a wall, not in a window. However, Carole's husband asked if it could stand on a plinth, so I made one from oak. The results are below:
+Following the owl panel, I was commissioned to make a panel with squirrels in it. The brief was grey & red squirrels, the name 'Carole' and her signature swirl with flowers below. Knowing Carole, I knew I could be a little quirky with the panel! I used copper and black patinas on the solder lines to highlight elements. The other challenge was that it would hang on a wall, not in a window. However, Carole's husband asked if it could also stand on a plinth, so I made one from oak. The results are below:
 
 ![Carole2]({{ site.baseurl }}/images/carole2.jpg)
 ![Carole1]({{ site.baseurl }}/images/carole1.jpg)
-![Carole3]({{ site.baseurl }}/images/carole3.jpg)
 
 ## Garden Obelisk
 
