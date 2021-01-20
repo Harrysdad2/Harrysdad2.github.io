@@ -68,6 +68,14 @@ The final three images of this piece show it on the light-box, with light on the
 
 I handed over this panel in person when we met at a point midway between our homes. I'm happy to report that Alison is very pleased with her commission and it now resides in the South Lakes, near Morecambe Bay.
 
+## Carole's Squirrels
+
+Following the owl panel, I was commissioned to make a panel with squirrels in it. The brief was grey & red squirrels, the name 'Carole' and her signature swirl with flowers below. Knowing Carole, I knew I could be a little quirky with the panel! The other challenge was that it would hang on a wall, not in a window. However, Carole's husband asked if it could stand on a plinth, so I made one from oak. The results are below:
+
+![Carole2]({{ site.baseurl }}/images/carole2.jpg)
+![Carole1]({{ site.baseurl }}/images/carole1.jpg)
+![Carole3]({{ site.baseurl }}/images/carole3.jpg)
+
 ## Garden Obelisk
 
 A friend commissioned this obelisk with her wider family as a present for their parents. The brief was for an 'organic' shape and it needed to include some specific colours. I sketched up some ideas and the family swapped notes and voted. Once we had that agreement the work progressed fairly quickly. The construction of the obelisk was very similar to my earlier ones.
