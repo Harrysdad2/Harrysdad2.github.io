@@ -27,7 +27,7 @@ A ribbon for ME awareness:
 ![Suncatcher ME]({{ site.baseurl }}/images/meribbon.jpg)
 
 150mm diameter rainbow:
-![Rainbow Suncatcher]({{ site.baseurl }}/images/suncatcherlarge.jpg)
+![Rainbow Suncatcher]({{ site.baseurl }}/images/suncatcher large.jpg)
 
 This is a larger (heavier) commission:
 ![Suncatcher Commission]({{ site.baseurl }}/images/suncatcherbooker.jpg)
