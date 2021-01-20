@@ -37,9 +37,25 @@ This is a larger (heavier) commission:
 One for Halloween:
 ![Spider's Web]({{ site.baseurl }}/images/webreeded.jpg)
 
+A multi-coloured giraffe:
+![Giraffe]({{ site.baseurl }}/images/giraffe.jpg)
 
+A Welsh Dragon:
+![Dragon]({{ site.baseurl }}/images/welshdragon.jpg)
 
+One for myself. This large suncatcher has a polished slice of a real ammonite fossil in the centre:
+![Ammonite]({{ site.baseurl }}/images/ammonite.jpg)
 
+A Celtic Trinity knot:
+![Trinityknot]({{ site.baseurl }}/images/trinityknot.jpg)
 
+A Celtic Infinity knot:
+![Infinityknot]({{ site.baseurl }}/images/infinityknot.jpg)
+
+Entwined hearts:
+![twohearts]({{ site.baseurl }}/images/twohearts.jpg)
+
+Shades of seaglass:
+![Seaglass]({{ site.baseurl }}/images/seaglass.jpg)
 
 
