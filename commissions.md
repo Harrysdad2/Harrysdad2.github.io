@@ -75,6 +75,16 @@ Following the owl panel, I was commissioned to make a panel with squirrels in it
 ![Carole2]({{ site.baseurl }}/images/carole2.jpg)
 ![Carole1]({{ site.baseurl }}/images/carole1.jpg)
 
+## Almscliffe Crag
+
+This is a rock formation near the village of Huby, between Leeds and Harrogate. It's popular with climbers and walkers and offers spectacular views across Yorkshire. I was commissoned to make a small piece of work to represent this feature as a free-standing panel. The client and I chose a view of the crag that we thought would work well and I made a sketch. Glass choices were shared and discussed and the finished piece was put together over a couple of evenings.
+
+![Almscliffe Picture]({{ site.baseurl }}/images/almscliffephoto.jpg)
+![Almscliffe Sketch]({{ site.baseurl }}/images/almscliffesketch.jpg)
+![Almscliffe Glass]({{ site.baseurl }}/images/almscliffeglass.jpg)
+![Almscliffe with Angel]({{ site.baseurl }}/images/almscliffeangel.jpg)
+![Almscliffe Finished]({{ site.baseurl }}/images/almscliffefinished.jpg)
+
 ## Garden Obelisk
 
 A friend commissioned this obelisk with her wider family as a present for their parents. The brief was for an 'organic' shape and it needed to include some specific colours. I sketched up some ideas and the family swapped notes and voted. Once we had that agreement the work progressed fairly quickly. The construction of the obelisk was very similar to my earlier ones.
