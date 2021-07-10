@@ -33,6 +33,10 @@ In July 2020 I was contacted by a lovely lady called Pam who wanted to commissio
 ![Pams Obelisk 1]({{ site.baseurl }}/images/pamsobelisk1.jpg)
 ![Pams Obelisk 2]({{ site.baseurl }}/images/pamsobelisk2.jpg)
 
+Two obelisks were commissioned in 2021 for local gardens:
+
+![Rachel's Obelisk]({{ site.baseurl }}/images/pamsobelisk2.jpg)
+
 I currently have a new obelisk for sale in my [Etsy shop.](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"}.
 
 ![Obelisk  4]({{ site.baseurl }}/images/obelisk4finished.jpg)
