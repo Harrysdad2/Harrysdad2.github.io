@@ -36,9 +36,9 @@ In July 2020 I was contacted by a lovely lady called Pam who wanted to commissio
 Two obelisks were commissioned in 2021 for local gardens:
 
 ![Rachel's Obelisk]({{ site.baseurl }}/images/anslow reflections.jpg)
-![Rachel's Obelisk]({{ site.baseurl }}/images/anslow installed.jpg)
+![Rachel's Obelisk Installed]({{ site.baseurl }}/images/anslow installed.jpg)
 ![Alison's Obelisk]({{ site.baseurl }}/images/alisonsobelisk.jpg)
-![Alison's Obelisk]({{ site.baseurl }}/images/alisonsobeliskfitted.jpg)
+![Alison's Obelisk Installed]({{ site.baseurl }}/images/alisonsobeliskfitted.jpg)
 
 I currently have a new obelisk for sale in my [Etsy shop.](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"}.
 
