@@ -3,6 +3,9 @@ layout: post
 title: Art Nouveau Inspired Serpent
 ---
 
-In October 2019 we took a short trip to Prague. It’s a beautiful city, well worth visiting. I have always liked the art of Alphons Mucha so a wander around the [museum](http://www.muchafoundation.org/){:target="_blank"} was a must. We also took a tour around the [Municipal House](https://www.prague.eu/en/object/places/417/municipal-house-obecni-dum?back=1){:target="_blank"} which boasts Mucha-designed rooms and stained glass. One particular window caught my eye and, despite the bad light, I took some pictures for future reference. I was glad I did because images of the window on-line are very scarce!
+My sister and her husband were both 60 within a month of each other in autumn 2021 so I decided to make them a panel as a gift. I knew that they wanted a panel that could stand on a base on a window sill. Knowing their likes, I decided to use influences from Clarice Cliffe and from the windows at [Blackwell House](https://lakelandarts.org.uk/blackwell/the-experience/){:target="_blank"} in Windermere, Cumbria. 
 
-![Serpent Window in Prague]({{ site.baseurl }}/images/serpentoriginal.jpg) 
+The birds and the crocuses were constructed using copper foil/solder and the whole piece was leaded, with a 6mm round c-section came to the edge. The biggest challenge was the reamy clear background. All of the seperate pieces of clear glass were cut out of the sheet so that the lines were maintained through the finished art with the intention that they give a sense of movement, particularly to the birds.
+
+The base is a piece of reclaimed oak routed, sanded and oiled. the support is a length of mild steel bar bent to shape, epoxied into the base and then laquered. The aim was to try not to obscure the piece with the stand.
+
