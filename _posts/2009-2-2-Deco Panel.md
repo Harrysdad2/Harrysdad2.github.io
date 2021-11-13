@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Art Nouveau Inspired Serpent
+title: Art Deco Inspired Panel
 ---
 
 My sister and her husband were both 60 within a month of each other in autumn 2021 so I decided to make them a panel as a gift. I knew that they wanted a panel that could stand on a base on a window sill. Knowing their likes, I decided to use influences from Clarice Cliffe and from the windows at [Blackwell House](https://lakelandarts.org.uk/blackwell/the-experience/){:target="_blank"} in Windermere, Cumbria. 
@@ -9,3 +9,4 @@ The birds and the crocuses were constructed using copper foil/solder and the who
 
 The base is a piece of reclaimed oak routed, sanded and oiled. the support is a length of mild steel bar bent to shape, epoxied into the base and then laquered. The aim was to try not to obscure the piece with the stand.
 
+![MDeco Panel Front]({{ site.baseurl }}/images/HR Front.jpg)
