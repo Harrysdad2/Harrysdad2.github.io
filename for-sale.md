@@ -12,9 +12,7 @@ This is a hobby, but occasionally I put pieces of work on [Etsy](https://www.ets
 
 ![Bat 1]({{ site.baseurl }}/images/bat1.jpg)
 
-There area a few suncatchers now available. Take a look! [Etsy](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"}
-
-![suncatcher large]({{ site.baseurl }}/images/suncatcher large.jpg)![suncatchers small]({{ site.baseurl }}/images/suncatchers small.jpg)![seaglass]({{ site.baseurl }}/images/seaglass.jpg)![twohearts]({{ site.baseurl }}/images/twohearts.jpg)![trinityknot]({{ site.baseurl }}/images/trinityknot.jpg)
+There are usually a few suncatchers available too. Take a look! [Etsy](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"}
 
 I try to make my prices as realistic as possible. The cost of glass can vary enormously depending on colour, whether it is machine or hand made, patterns and finishes. Of course, the time taken to make an item is significant too. One of the bats above takes over 4 hours to make from start to finish. The Liverpool FC crest took 20 hours. They really are hand made and unique!
 
