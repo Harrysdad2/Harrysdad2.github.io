@@ -112,4 +112,31 @@ As usual, I took photos during the work and shared the album with the client. Th
 
 ![Installed]({{ site.baseurl }}/images/anslow installed.jpg)
 
+## Oak Obelisk
+
+I was contacted by a lady asking if I would consider making a free-standing obelisk for indoors. She had a pretty clear idea – reclaimed chunky oak, simple glass, about 4 feet tall. Of course, I like a challenge so I agreed to come up with some ideas and, if she liked them, she would consider a commission.
+I found a wonderful timber reclamation yard in Guiseley and came home with an old oak roof beam. Not cheap but still wonderful wood.
+I removed a number of square nails, which suggest they were pre-1900 so we can guess that the beam was at least 120 years old.
+
+![Timber]({{ site.baseurl }}/images/eithnetimber.jpg)
+
+I provided a proposal and we agreed both the price and the shape/make-up of the glass. I am lucky to have a cousin who runs a business doing metal fabrication. I commissioned him to make a stainless steel base for the timber to stand on.
+
+The hole and rebate were cut. That was a real challenge as the timber had no flat sides or square corners. I ended up making an mdf template which I clamped to one side and then used my router. One of the hazards of reclaimed timber is the presence of nails and I wrote one router bit off on a nail I had missed earlier…
+I set the rebate deep – half-way through the beam – so that the glass would sit centrally, effectively making the obelisk double-sided.
+The glass was put together using thirty different glasses in a double spectrum. The edge was leaded using 12mm H-section came (to sit in the rebate) and the stripes were separated using 6mm H-section came. Once all cemented, I polished the lead using grate polish.
+
+I spent a number of noisy hours waxing the wood using hard wax and drill-mounted mops. The finish is subtle but lovely and it smells good!
+The glass was settled in with a small amount of acrylic frame sealant and a new oak bead was clamped into position and fixed with stainless steel panel pins. The bead was then sanded back to make it flush with the beam. I elected to leave the new oak its natural light colour as a contrast to the old wood of the beam.
+
+![Obelisk]({{ site.baseurl }}/images/eithneobelisk.jpg)
+
+The obelisk was shipped to it’s new home in Scotland using Parcel Force. One box contained the base and another, with lots of bubblewrap and foam ‘peanuts’, was the obelisk. It weighed 15kg! Happily it arrived safely and the new owner reported that she was very pleased with it!
+
+![Refraction]({{ site.baseurl }}/images/eithnerefraction.jpg)
+
+When we had first exchanged notes, this customer had also mentioned a ‘horizontal obelisk’ to sit on a mantle piece. I took a look at the piece of wood that had been cut out of the obelisk and decided to try to make one. Nothing ventured, nothing gained, so I cut the surround as thin as I dared and set some glass into it. I also polished up the off-cut from that and drilled four holes to take tea-lights. I’m happy to say that these have also headed north to join the obelisk.
+
+![Mantle Pieces]({{ site.baseurl }}/images/eithnemantlepieces.jpg)
+
 I have also made/restored windows. Check out the [door set.](https://andy.merckel.uk/victorianwindow/){:target="_blank"}
