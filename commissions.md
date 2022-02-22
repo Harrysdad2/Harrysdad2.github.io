@@ -133,7 +133,7 @@ The glass was settled in with a small amount of acrylic frame sealant and a new 
 
 The obelisk was shipped to it’s new home in Scotland using Parcel Force. One box contained the base and another, with lots of bubblewrap and foam ‘peanuts’, was the obelisk. It weighed 15kg! Happily it arrived safely and the new owner reported that she was very pleased with it!
 
-![Refraction]({{ site.baseurl }}/images/eithnerefraction.jpg)
+![Refraction]({{ site.baseurl }}/images/eithnerefraction.jpeg)
 
 When we had first exchanged notes, this customer had also mentioned a ‘horizontal obelisk’ to sit on a mantle piece. I took a look at the piece of wood that had been cut out of the obelisk and decided to try to make one. Nothing ventured, nothing gained, so I cut the surround as thin as I dared and set some glass into it. I also polished up the off-cut from that and drilled four holes to take tea-lights. I’m happy to say that these have also headed north to join the obelisk.
 
