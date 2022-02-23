@@ -5,7 +5,9 @@ title: Suncatchers
 
 Free-hanging pieces of stained glass are known as suncatchers. These vary from very small pieces to larger panels, like Alison's Owl & Sunflowers picture in the [Commissions section](https://andy.merckel.uk/commissions/){:target="_blank"}.The following is a selection of those done so far...
 
-A collage of recent pieces, all 100mm diameter:
+Collages of recent pieces, all 100mm diameter:
+![Collage]({{ site.baseurl }}/images/suncatcherscollage3.jpg)
+![Collage]({{ site.baseurl }}/images/suncatcherscollage2.jpg)
 ![Collage]({{ site.baseurl }}/images/suncatcherscollage.jpg)
 
 A simple Yorkshire Rose:
