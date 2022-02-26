@@ -43,6 +43,7 @@ Two obelisks were commissioned in 2021 for local gardens:
 The newest obelisk is for indoors and has glass set into an old oak beam. I made a small horizontal piece from the centre wood and then made a candle holder from the final piece! These are now living in Aberdeenshire.
 
 ![Oak Obelisk]({{ site.baseurl }}/images/eithnefullset.jpeg)
+![Oak Obelisk refraction]({{ site.baseurl }}/images/eithnerefraction.jpeg)
 
 I currently have a new obelisk for sale in my [Etsy shop.](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"}.
 
