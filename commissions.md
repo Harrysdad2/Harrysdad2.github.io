@@ -139,6 +139,6 @@ When we had first exchanged notes, this customer had also mentioned a ‘horizon
 
 ![Mantle Pieces]({{ site.baseurl }}/images/eithnemantlepieces.jpg)
 
-![The Full Set]({{ site.baseurl }}/images/eithnefullset.jpg)
+![The Full Set]({{ site.baseurl }}/images/eithnefullset.jpeg)
 
 I have also made/restored windows. Check out the [door set.](https://andy.merckel.uk/victorianwindow/){:target="_blank"}
