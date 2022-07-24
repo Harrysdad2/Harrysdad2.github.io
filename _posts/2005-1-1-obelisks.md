@@ -48,11 +48,11 @@ This obelisk is for indoors and has glass set into an old oak beam. I made a sma
 
 I made another obelisk as a sample for market stalls I attended and this one now resides in the garden. It'll look better with some planting around it!
 
-![Spectrum obelisk]({{ site.baseurl }}/images/Spectrum obelisk.jpg)
+![Spectrum Obelisk]({{ site.baseurl }}/images/Spectrum obelisk.jpg)
 
 My latest commission was for an obelisk with circles. This is free-standing on a timber base so that the owner can move it around her garden.
 
-![Circles obelisk]({{ site.baseurl }}/images/Circles obelisk.jpg)
+![Circles Obelisk]({{ site.baseurl }}/images/Circles obelisk.jpg)
 
 ![Circles detail]({{ site.baseurl }}/images/Circles detail.jpg)
 
