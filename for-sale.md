@@ -19,15 +19,3 @@ I try to make my prices as realistic as possible. The cost of glass can vary eno
 Typically a small tiffany-style piece will be around £25. A suncatcher will depend on size and complexity, but is likely to be £50 to £200. An obelisk will be between £200 and £400, see my [obelisks page](https://andy.merckel.uk/obelisks/){:target="_blank"}. Windows depend on the size and degree of work involved.
 
 I’m always happy to discuss a project. See the [Commissions page](https://andy.merckel.uk/commissions/){:target="_blank"}. Contact me on [andysglass252@gmail.com](mailto:andysglass252@gmail.com). 
-
-New:
-
-I've put another obelisk together which is now on [Etsy](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"}. The glass is about 200mm x 400mm and looks like this:
-
-![New Obelisk Glass]({{ site.baseurl }}/images/obelisk41.jpg)[On the Board]
-
-![New Obelisk]({{ site.baseurl }}/images/obelisk4.jpg)[Sun on and sun behind]
-
-The finished obelisk:
-
-![Obelisk 4]({{ site.baseurl }}/images/obelisk4finished.jpg)
