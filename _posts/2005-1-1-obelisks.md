@@ -40,14 +40,20 @@ Two obelisks were commissioned in 2021 for local gardens:
 ![Alison's Obelisk]({{ site.baseurl }}/images/alisonsobelisk.jpg)
 ![Alison's Obelisk Installed]({{ site.baseurl }}/images/alisonsobeliskfitted.jpg)
 
-The newest obelisk is for indoors and has glass set into an old oak beam. I made a small horizontal piece from the centre wood and then made a candle holder from the final piece! These are now living in Aberdeenshire.
+This obelisk is for indoors and has glass set into an old oak beam. I made a small horizontal piece from the centre wood and then made a candle holder from the final piece! These are now living in Aberdeenshire.
 
 ![Oak Obelisk]({{ site.baseurl }}/images/eithnefullset.jpeg)
 
 ![Oak Obelisk refraction]({{ site.baseurl }}/images/eithnerefraction.jpeg)
 
-I currently have a new obelisk for sale in my [Etsy shop.](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"}.
+I made another obelisk as a sample for market stalls I attended and this one now resides in the garden. It'll look better with some planting around it!
 
-![Obelisk  4]({{ site.baseurl }}/images/obelisk4finished.jpg)
+![Spectrum obelisk]({{ site.baseurl }}/images/Spectrum obelisk.jpg)
+
+My latest commission was for an obelisk with circles. This is free-standing on a timber base so that the owner can move it around her garden.
+
+![Circles obelisk]({{ site.baseurl }}/images/Circles obelisk.jpg)
+
+![Circles detail]({{ site.baseurl }}/images/Circles detail.jpg)
 
 I’d love to make more of these obelisks and would welcome enquiries to [andysglass252@gmail.com](mailto:andysglass252@gmail.com). An obelisk typically costs between £200 and £400 plus transport, depending on the size, complexity and degree of work required.
