@@ -10,6 +10,15 @@ Collages of recent pieces, all 100mm diameter:
 ![Collage]({{ site.baseurl }}/images/suncatcherscollage2.jpg)
 ![Collage]({{ site.baseurl }}/images/suncatcherscollage.jpg)
 
+A large monstera leaf:
+![Large monstera]({{ site.baseur1 }}/images/Large Monstera.jpg)
+
+A trout:
+![Trout]({{ site.baseurl }}/images/Trout.jpg)
+
+An owl:
+![Grumpy Owl]({{ site.baseurl }}/images/Grumpy Owl.jpg)
+
 A simple Yorkshire Rose:
 ![Yorks Rose]({{ site.baseurl }}/images/yorkshirerose1.jpg)
 
