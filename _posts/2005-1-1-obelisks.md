@@ -50,7 +50,11 @@ I made another obelisk as a sample for market stalls I attended and this one now
 
 ![Spectrum Obelisk]({{ site.baseurl }}/images/Spectrum Obelisk.jpg)
 
-My latest commission was for an obelisk with circles. This is free-standing on a timber base so that the owner can move it around her garden.
+I made a small oak indoor obelisk with a clear roundel at the centre. The base is from the same piece of oak mounted on a ply base.
+
+![Oak Obelisk]({{ site.baseurl }}/images/Oak obelisk.jpg)
+
+My latest commission (summer 2022) was for an obelisk with circles. This is free-standing on a timber base so that the owner can move it around her garden.
 
 ![Circles Obelisk]({{ site.baseurl }}/images/Circles Obelisk.jpg)
 
