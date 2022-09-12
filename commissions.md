@@ -1,10 +1,13 @@
 ---
-layout: page
+layout: default
 title: Commissions
 permalink: /commissions/
 ---
 
-Note - August 2022. I am currently unable to take on any new commissions but would still be happy to talk about something if it can wait until the new year!
+# Commissions
+
+{: .notice }
+August 2022. I am currently unable to take on any new commissions but would still be happy to talk about something if it can wait until the new year!
 
 I am always happy to talk about something you may like, either related to something you’ve seen on these pages or to help realise an idea that you may have. Please be assured that if I think it is beyond my capabilities I will tell you!
 

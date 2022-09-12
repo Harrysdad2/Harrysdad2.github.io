@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
+
+# About Me
 
 I'm a part-time stained glass artist based in Leeds, West Yorkshire. Many of the items shown on this site have been made for my own pleasure and use. Others, identified in the posts, have been made to sell or have been commissions.
 
