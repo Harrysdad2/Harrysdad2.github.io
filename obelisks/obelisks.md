@@ -3,7 +3,7 @@ layout: default
 title: Obelisks
 nav_order: 4
 has_children: true
-permalink: obelisks
+permalink: /obelisks/
 ---
 
 # Obelisks

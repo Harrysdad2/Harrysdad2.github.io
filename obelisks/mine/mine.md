@@ -4,7 +4,7 @@ title: Mine
 nav_order: 1
 parent: Obelisks
 has_children: true
-permalink: obelisks/mine
+permalink: /obelisks/mine/
 ---
 
 # My Obelisks

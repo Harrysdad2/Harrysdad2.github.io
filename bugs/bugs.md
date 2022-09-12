@@ -3,7 +3,7 @@ layout: default
 title: Bugs
 nav_order: 3
 has_children: true
-permalink: bugs
+permalink: /bugs/
 ---
 
 # Bugs
