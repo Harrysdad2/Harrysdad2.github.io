@@ -12,4 +12,4 @@ This obelisk is probably the most ambitious to date. It was commissioned by the 
 
 The design went through a number of iterations ending with a representation of sea, hils and mountains. The waves incude a hand-blown roundel.
 
-![Alison's Obelisk](/images/alisonsobelisk.jpg) ![Alison's Obelisk Installed]({/images/alisonsobeliskfitted.jpg)
+![Alison's Obelisk](/images/alisonsobelisk.jpg) ![Alison's Obelisk Installed](/images/alisonsobeliskfitted.jpg)
