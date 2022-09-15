@@ -15,7 +15,7 @@ Typically a small tiffany-style piece will be £25 to £40. A larger suncatcher 
 
 Contact me on [andysglass252@gmail.com](mailto:andysglass252@gmail.com) if you would like to look at the possibilities. 
 
-Details of a few recent commissions are outlined below to give you an idea of the process that I like to follow. It is vital that we both understand what is expected and that you get what you want.
+I've identified commissions of obelisks and larger suncatchers throughout the site and added details of some of them below to give a flavour of the process I like to follow. It is vital that we both understand what is expected and that you get what you want.
 
 I like to get as much information as possible about what a customer would like, where the item is to go, particular colours etc. We'll agree a price (plus delivery) at this point and a deposit will be paid. I'll produce sketch designs and swap notes making changes as we go. If there are any significant changes during this process we may agree a revised price. Once we have a design agreed then I'll draw up the working plan and start to gather glass. This is either from stock or I'll buy in particular pieces as required. I will share a set of photos as work progresses so that the customer can follow the process. Once complete the remaining payment is made and we arrange delivery. This may be in person or using a courier.
 
@@ -49,7 +49,7 @@ As shown on the Obelisk page, the timber was planed, cut to size and I filled an
 
 ![Timber]({{ site.baseurl }}/images/pam timber.jpg)
 
-This was sent to it's new home near Peterborough using a courier collect and deliver service. Clearly it had to be properly packed and many cardboard boxes were re-purposed in doing this!
+This was sent to its new home near Peterborough using a courier collect and deliver service. Clearly it had to be properly packed and many cardboard boxes were re-purposed in doing this!
 
 ![Details]({{ site.baseurl }}/images/pam details.jpg)
 ![Finished obelisk]({{ site.baseurl }}/images/pamsobelisk1.jpg)
