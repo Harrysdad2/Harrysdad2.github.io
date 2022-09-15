@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SAbstarct
+title: Abstract
 nav_order: 4
 parent: Gallery
 grand_parent: Obelisks
