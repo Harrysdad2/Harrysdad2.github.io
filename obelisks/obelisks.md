@@ -8,11 +8,13 @@ permalink: /obelisks/
 
 # Obelisks
 
-{: .warning }
-TODO write some introduction about obelisks
 
-{: .notice }
-Maybe add some pictures or a collage
+
+I’ve always liked the stained glass art where glass is set into a large piece of driftwood and stood vertically in the ground.
+
+The roofs of the houses we live in have a big heavy timber ridge beam that’s about 11”x 3” cross section. When lofts are converted, the beam is removed and replaced with a steel beam. I thought that a length of this beam could be used with a piece of stained glass and be shaped (carved, even) to be a little more interesting. 
+
+The first obelisk was a success - with a great deal of learning! As time has gone on I have developed ways of working. Check out the 'How It's Done' section for more details.
 
 You can see the full list of obelisks I have made in the sidebar and at the bottom of this page - click to go through and see some pictures!
 
