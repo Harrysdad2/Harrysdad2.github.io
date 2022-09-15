@@ -9,5 +9,4 @@ permalink: /obelisks/gallery/
 
 # Gallery
 
-{: .warning }
-TODO write
+A record of the obelisks made to date!
