@@ -8,4 +8,4 @@ parent: Obelisks
 # How It's Done
 
 {: .warning }
-TODO write
+This will be a page showing the various stages of making a stained glass obelisk.
