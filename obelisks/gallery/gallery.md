@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Mine
+title: Gallery
 nav_order: 1
 parent: Obelisks
 has_children: true
-permalink: /obelisks/mine/
+permalink: /obelisks/gallery/
 ---
 
-# My Obelisks
+# Gallery
 
 {: .warning }
 TODO write
