@@ -15,5 +15,3 @@ My second obelisk was made as payment to a good friend in exchange for her profe
 ![Obelisk 2 Glass](/images/obelisk2glass.jpg) ![Obelisk 2 Wood](/images/obelisk2wood.jpg) ![Obelisk 2 Finished]({{ site.baseurl }}/images/obelisk2finished.jpg)
 
 ![Obelisk 2 In-Situ](/images/obelisk2insitu.jpg)
-
-I then decided to make a simplified rectangular obelisk to try to sell. This one now resides in a peaceful garden used by a therapy centre in Sheffield.
