@@ -2,7 +2,7 @@
 layout: default
 title: The First Obelisk
 nav_order: 1
-parent: obelisks
+parent: Gallery
 grand_parent: Obelisks
 ---
 
