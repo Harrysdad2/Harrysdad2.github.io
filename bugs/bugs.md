@@ -8,5 +8,4 @@ permalink: /bugs/
 
 # Bugs
 
-{: .warning }
-TODO write
+Who doesn't like bugs?! This section shows a number of different insects, arachnids and a mythical creature made using stained glass...
