@@ -16,6 +16,8 @@ The roofs of the houses we live in have a big heavy timber ridge beam that’s a
 
 The first obelisk was a success - with a great deal of learning! As time has gone on I have developed ways of working. Check out the 'How It's Done' section for more details.
 
+![Obelisk Collage](/images/obeliskscollage.jpg)
+
 You can see the full all of the obelisks I have made in the gallery - click to go through and see some pictures!
 
 ## Commissions
