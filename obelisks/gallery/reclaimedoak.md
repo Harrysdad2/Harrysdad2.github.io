@@ -16,8 +16,8 @@ I had a stainless steel base made so that it stands safely! I made a small horiz
 
 ![Timber](/images/eithnetimber.jpg)
 
-![Mantle Pieces](/images/eithnemantlepieces.jpg)
-
 ![Oak Obelisk](/images/eithnefullset.jpeg)
+
+![Mantle Pieces](/images/eithnemantlepieces.jpg)
 
 ![Oak Obelisk refraction](/images/eithnerefraction.jpeg)
