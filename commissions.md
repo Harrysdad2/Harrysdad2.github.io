@@ -19,19 +19,7 @@ I've identified commissions of obelisks and larger suncatchers throughout the si
 
 I like to get as much information as possible about what a customer would like, where the item is to go, particular colours etc. We'll agree a price (plus delivery) at this point and a deposit will be paid. I'll produce sketch designs and swap notes making changes as we go. If there are any significant changes during this process we may agree a revised price. Once we have a design agreed then I'll draw up the working plan and start to gather glass. This is either from stock or I'll buy in particular pieces as required. I will share a set of photos as work progresses so that the customer can follow the process. Once complete the remaining payment is made and we arrange delivery. This may be in person or using a courier.
 
-## Alison's Obelisk
 
-In Spring 2021 I was approached by a friend of my wife to design and make an obelisk for a 'significant birthday' for her husband. The initial brief was to do something that reflected a path, hills, mountains - possibly the lake district - maybe a sunburst?. A few sketches followed and the design evolved. We lost the path and the sunburst, then swapped the idea of a lake for the sea (Irish, choppy!). I chose a tapered oval shape and produced a full-size template. The glass included clear nuggets in the sea as well as a blue rondel. That was very thin so I backed it with a clear circle for strength.
-
-The timber was a reclaimed ridge beam, as with my other work, and I shaped it using saws, planer, router and sanders. I chose to extend the hill lines into the wood to add a bit more interest.
-
-This is the finished work held up by my daughter with the evening sun behind:
-
-![Alison's Obelisk]({{ site.baseurl }}/images/alisonsobelisk.jpg)
-
-And here it is as installed in the client's garden:
-
-![Alison's Obelisk in the garden]({{ site.baseurl }}/images/alisonsobeliskfitted.jpg)
 
 ## Pam's Obelisk
 
