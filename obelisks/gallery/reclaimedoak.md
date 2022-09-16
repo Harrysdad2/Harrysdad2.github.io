@@ -14,6 +14,10 @@ Working such old wood was a challenge because i wanted to retain as much of it's
 
 I had a stainless steel base made so that it stands safely! I made a small horizontal piece from the centre wood and then made a candle holder from the final piece! These are now living in Aberdeenshire.
 
+![Timber](/images/eithnetimber.jpg)
+
+![Mantle Pieces](/images/eithnemantlepieces.jpg)
+
 ![Oak Obelisk](/images/eithnefullset.jpeg)
 
 ![Oak Obelisk refraction](/images/eithnerefraction.jpeg)
