@@ -10,6 +10,10 @@ parent: Suncatchers
 {: .warning }
 TODO write
 
+![Collage](/images/suncatcherscollage3.jpg)
+![Collage](/images/suncatcherscollage2.jpg)
+![Collage](/images/suncatcherscollage.jpg)
+
 A trout: ![Trout](/images/Trout.jpg)
 
 An owl: ![Grumpy Owl](/images/Grumpy Owl.jpg)
