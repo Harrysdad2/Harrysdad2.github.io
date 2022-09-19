@@ -7,9 +7,6 @@ parent: Suncatchers
 
 # Small Suncatchers
 
-{: .warning }
-TODO write
-
 ![Collage](/images/suncatcherscollage3.jpg)
 ![Collage](/images/suncatcherscollage2.jpg)
 ![Collage](/images/suncatcherscollage.jpg)
