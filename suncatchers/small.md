@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Small
+title: Small Suncatchers
 nav_order: 1
 parent: Suncatchers
 ---
 
-# Small
+# Small Suncatchers
 
 {: .warning }
 TODO write
