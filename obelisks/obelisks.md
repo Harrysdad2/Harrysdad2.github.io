@@ -18,7 +18,7 @@ The first obelisk was a success - with a great deal of learning! As time has gon
 
 ![Obelisk Montage](/images/obelisksmontage.jpg)
 
-You can see the full all of the obelisks I have made in the gallery - click to go through and see some pictures!
+You can see all of the obelisks I have made in the gallery - click in the menu or below to go through and see some pictures!
 
 ## Commissions
 
