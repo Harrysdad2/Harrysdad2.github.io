@@ -17,7 +17,7 @@ Next came a spider in her web. The web is leaded and the spider is cut from thin
 
 ![Triangle Spider](/images/trianglespider.jpg)
 
-We live in Yorkshire, so a simplified Yorkshire Rose seemed appropriate, with leaded construction.
+We live in Yorkshire, so a simplified Yorkshire Rose seemed appropriate, with leaded construction.The background glass was reclaimed from our house.
 
 ![Triangle Rose](/images/trianglerose.jpg)
 
