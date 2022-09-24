@@ -12,3 +12,5 @@ This commission was for a 50th birthday present and the request was to include f
 The design is based on a traditional dreamcatcher comprising 50 pieces of glass plus the 'C' with five small feathers hung below. The stand was a challenge given the weight of the piece but eventually took the form of a wooden base with a laquered steel hoop to hand the piece from.
 
 ![Dreamcatcher](/images/dreamcatcher.jpg)
+
+![Dreamcatcher](/images/dreamcatcherbase.jpg)
