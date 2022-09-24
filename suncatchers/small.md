@@ -7,6 +7,8 @@ parent: Suncatchers
 
 # Small Suncatchers
 
+My small suncatchers are 100mm diameter. Below are a series of pictures of ones made to date.
+
 ![Collage](/images/suncatcherscollage3.jpg)
 ![Collage](/images/suncatcherscollage2.jpg)
 ![Collage](/images/suncatcherscollage.jpg)
