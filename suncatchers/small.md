@@ -7,7 +7,7 @@ parent: Suncatchers
 
 # Small Suncatchers
 
-My small suncatchers are 100mm diameter. Below are a series of pictures of ones made to date. THere are usually small suncatchers in the shop. If you see something here you like, or have a specific subject in mind then contact me and I will see what I can do!
+My small suncatchers are 100mm diameter. Below are a series of pictures of ones made to date. There are usually small suncatchers in the shop. If you see something here you like, or have a specific subject in mind then contact me and I will see what I can do!
 
 ![Collage](/images/suncatchers1.jpg)
 ![Collage](/images/suncatchers2.jpg)
