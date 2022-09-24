@@ -7,9 +7,6 @@ parent: Suncatchers
 
 # Large Suncatchers
 
-{: .warning }
-TODO write
-
 My first ever piece of stained glass was a suncatcher that still hangs in the loo window!
 
 ![Clarice Cliff](/images/Loo%20window.jpg)
