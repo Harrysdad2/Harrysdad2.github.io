@@ -3,7 +3,6 @@ layout: default
 title: Three Diamonds
 nav_order: 2
 parent: Gazebo
-permalink: /gazebo/three-diamonds/
 ---
 
 # Three Diamonds
