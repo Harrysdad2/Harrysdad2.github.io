@@ -8,6 +8,8 @@ permalink: /about/
 
 I'm a part-time stained glass artist based in Leeds, West Yorkshire. Many of the items shown on this site have been made for my own pleasure and use. Others, identified in the posts, have been made to sell or have been commissions.
 
+Latest pieces are on Instagram at andys.glass and my Facebook page [Andy's Glass](https://www.facebook.com/profile.php?id=100088442906461){:target="_blank"}
+
 ### More Information
 
 {: .warning } This new site is under construction! Etsy shop being replaced by SumUp shop.
