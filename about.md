@@ -8,13 +8,13 @@ permalink: /about/
 
 I'm a part-time stained glass artist based in Leeds, West Yorkshire. Many of the items shown on this site have been made for my own pleasure and use. Others, identified in the posts, have been made to sell or have been commissions.
 
-Latest pieces are on Instagram at andys.glass and my Facebook page [Andy's Glass](https://www.facebook.com/profile.php?id=100088442906461){:target="_blank"}
+Latest pieces are on Instagram at [@andys.glass](https://www.instagram.com/andys.glass){:target="_blank"} and my Facebook page [Andy's Glass](https://www.facebook.com/profile.php?id=100088442906461){:target="_blank"}
 
 ### More Information
 
 {: .warning } This new site is under construction! Etsy shop being replaced by SumUp shop.
 
-I have a few smaller items for sale on [Etsy](https://www.etsy.com/uk/shop/AndysGardenGlass){:target="_blank"}. Commissions, large or small, are always welcome and I would be very happy to discuss your requirements. See my [Commissions](https://andy.merckel.uk/commissions/){:target="_blank"} page for more details.
+Commissions, large or small, are always welcome and I would be very happy to discuss your requirements. See my [Commissions](https://andy.merckel.uk/commissions/){:target="_blank"} page for more details.
 
 ### Contact me
 
