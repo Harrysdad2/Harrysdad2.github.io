@@ -17,7 +17,7 @@ Latest pieces are on Instagram at [@andys.glass](https://www.instagram.com/andys
 {: .warning }
 This new site is under construction! Some content may be missing so please be patient while I catch up :).
 
-![Title]({{ site.baseurl }}/images/Andys glass.jpg)
+{![Title]({{ site.baseurl }}/images/Andys glass.jpg)}
 ![Collage]({{ site.baseurl }}/images/Collage.jpg)
 
 
