@@ -12,8 +12,6 @@ Latest pieces are on Instagram at [@andys.glass](https://www.instagram.com/andys
 
 ### More Information
 
-{: .warning } This new site is under construction! Etsy shop being replaced by SumUp shop.
-
 Commissions, large or small, are always welcome and I would be very happy to discuss your requirements. See my [Commissions](https://andy.merckel.uk/commissions/){:target="_blank"} page for more details.
 
 ### Contact me
