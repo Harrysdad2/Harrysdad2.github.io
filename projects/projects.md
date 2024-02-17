@@ -8,4 +8,6 @@ permalink: /projects/
 
 # Projects
 
-A collection of personal projects.
+This is a collection of more recent personal projects.
+
+![Front door](/images/door 13.jpg)
