@@ -16,7 +16,7 @@ This picture shows the four panels with white paper behind to show the pattern:
 
 ![Lantern](/images/lantern 1.jpg)
 
-Pictures of the antern with a large candle inside.
+Pictures of the lantern with a large candle inside.
 
 ![Lantern](/images/****.jpg)
 
