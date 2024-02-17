@@ -47,7 +47,7 @@ At this stage I finally get chance to see the glass with the sun through it!
 
 ![Front Door](/images/door 9-5.jpg)
 
-Finally, in November 2024, the panels were complete and we were able to fit them.
+Finally, in November 2024, all seven panels were complete. I took them to the glaziers to be encapsulated and we were able to fit them.
 
 ![Front Door](/images/door 10.jpg)
 
