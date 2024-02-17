@@ -15,7 +15,7 @@ There are two windows in my shed, both with nine panes of glass. I’ve used one
 
 First up is another bluebird. This was inspired by the windows at Blackwell{:target="_blank"}, the Arts & Crafts house at Windermere. Well worth a visit if you’re over that way!
 
-![Blackwell](/images/Blackwell.png)[Window at Blackwell]
+![Blackwell](/images/Blackwell.png)
 
 ![Bluebird](/images/DecoBluebird.jpg)
 
