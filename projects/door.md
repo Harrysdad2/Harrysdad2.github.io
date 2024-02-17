@@ -35,11 +35,11 @@ One of the side panels being assembled.
 
 ![Front Door](/images/door 7.jpg)
 
-Once soldered, each panel was cemented. This is the part of the job I least enjoy but needs to be done carefully to ensure that all gaps are filled and that the panels are as strong as possible.
+After both sides of a panl have been soldered, each panel needs to be cemented. This is the part of the job I least enjoy but needs to be done carefully to ensure that all gaps are filled and that the panels are as strong as possible. The white powder is chalk, to soak up excess solvents and oils in the cement.
 
 ![Front Door](/images/door 8.jpg)
 
-Once cleaned up, the lead is polished using black grate polish. Again, lots of time spent making sure everything looked as I wanted. There needed to be at least six weeks between cementing and getting the panels encapsulated so that the oils in the cement had time to evaporate off. This would hopefully avoid any future issues with the panels misting up.
+Once the cemented panel has been cleaned up, the lead is polished using black grate polish. Again, lots of time was spent making sure everything looked as I wanted. There then needed to be at least six weeks between cementing and getting the panels encapsulated so that the oils in the cement had time to evaporate off. This would hopefully avoid any future issues with the panels misting up.
 
 ![Front Door](/images/door 9.jpg)
 
