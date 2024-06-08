@@ -35,3 +35,4 @@ A Welsh Dragon for Welsh relatives! This design was drawn by my daughter and we 
 
 I made this one for myself. This large suncatcher has a polished slice of a real ammonite fossil in the centre: ![Ammonite](/images/ammonite.jpg)
 
+Coo is after the wonderful paintings of Highland Cows by Steven Brown. It's 150mm diameter: ![Coo](/images/coo.jpg)
