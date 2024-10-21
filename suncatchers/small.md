@@ -7,19 +7,13 @@ parent: Suncatchers
 
 # Small Suncatchers
 
-My small suncatchers are 100mm diameter. Below are a series of pictures of ones made to date. There are usually small suncatchers in the shop. If you see something here you like, or have a specific subject in mind then contact me and I will see what I can do!
+My small suncatchers are 100mm diameter. Below are a series of pictures of ones made to date. All of these can be made to order and most cost £25 to £35. A few of the very complex ones are a little more. If you have a specific subject in mind then contact me and I will see what I can do!
 
-![Collage](/images/suncatchers1.jpg)
-![Collage](/images/suncatchers2.jpg)
+![Collage](/images/1 Animals.jpg)
+![Collage](/images/1 Birds.jpg)
 ![Collage](/images/suncatchers3.jpg)
 ![Collage](/images/suncatchers4.jpg)
 ![Collage](/images/suncatchers5.jpg)
 ![Collage](/images/suncatchers6.jpg)
-
-They don't all need to be round! A simple Yorkshire Rose: ![Yorks Rose](/images/yorkshirerose1.jpg)
-
-And, in the interests of equality, a Lancashire Rose: ![Lancs Rose](/images/lancashirerose.jpg)
-
-Bats: ![Bats](/images/bats.jpg)
 
 
