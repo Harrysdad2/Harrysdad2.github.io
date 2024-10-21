@@ -6,8 +6,8 @@ permalink: /for-sale/
 
 # Stuff For Sale
 
-{: .notice }
-New shop under construction. Please check back soon.
+<!---{: .notice }
+New shop under construction. Please check back soon.--->
 
 I now attend a number of local markets through the year and sell smaller pieces of work, with Christmas decorations and 
 
