@@ -3,10 +3,10 @@ description: Stained Glass Artist from Leeds
 
 logo: "/logo.jpg"
 
-aux_links:
-  "Visit my SumUp shop!":
-    "//andys-glass.sumup.link/"
-aux_links_new_tab: true
+#aux_links:
+#  "Visit my SumUp shop!":
+#    "//andys-glass.sumup.link/"
+#aux_links_new_tab: true
 
 #nav_external_links:
 #  - title: Visit my SumUp shop!
