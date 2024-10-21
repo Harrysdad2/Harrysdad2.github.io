@@ -21,7 +21,7 @@ The sunburst is all cut from a single sheet of glass, choosing the light and dar
 
 Some designs follow the same process as the small 100mm diameter suncatchers like this large monstera leaf: ![Large monstera](/images/Large%20Monstera.jpg)
 
-150mm diameter rainbow: ![Rainbow%20Suncatcher](/images/suncatcher large.jpg)
+150mm diameter rainbow: ![Rainbow Suncatcher](/images/suncatcher%20large.jpg)
 
 This suncatcher is a larger (and much heavier) commission. Like the Bluebird, it is all leaded construction: ![Suncatcher Commission](/images/suncatcherbooker.jpg)
 
