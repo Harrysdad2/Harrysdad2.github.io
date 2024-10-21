@@ -10,6 +10,7 @@ parent: Suncatchers
 My small suncatchers are 100mm diameter. Below are a series of pictures of ones made to date. All of these can be made to order and most cost £25 to £35. A few of the very complex ones are a little more. If you have a specific subject in mind then contact me and I will see what I can do!
 
 ![Collage](/images/1%20Animals.jpg)
+
 Examples of Cockerpoo, Panda, Cat, Bulldog, Koala, Snail, Fox and Wolf.
 
 ![Collage](/images/1%20Birds.jpg)
