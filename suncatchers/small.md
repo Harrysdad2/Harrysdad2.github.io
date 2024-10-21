@@ -13,7 +13,12 @@ My small suncatchers are 100mm diameter. Below are a series of pictures of ones 
 
 Examples of Cockerpoo, Panda, Cat, Bulldog, Koala, Snail, Fox and Wolf.
 
+
 ![Collage](/images/1%20Birds.jpg)
+
+Examples of Kingfisher, Deco Bluebird, Dove, Magpie, Bluebird, Owl, Rubber Duck, Robin and Puffin.
+
+
 ![Collage](/images/suncatchers3.jpg)
 ![Collage](/images/suncatchers4.jpg)
 ![Collage](/images/suncatchers5.jpg)
