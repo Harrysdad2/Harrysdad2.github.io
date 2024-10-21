@@ -19,9 +19,29 @@ Examples of Cockerpoo, Panda, Cat, Bulldog, Koala, Snail, Fox and Wolf.
 Examples of Kingfisher, Deco Bluebird, Dove, Magpie, Bluebird, Owl, Rubber Duck, Robin and Puffin.
 
 
-![Collage](/images/suncatchers3.jpg)
-![Collage](/images/suncatchers4.jpg)
-![Collage](/images/suncatchers5.jpg)
-![Collage](/images/suncatchers6.jpg)
+![Collage](/images/1%20Earth.jpg)
+
+Examples of Clarice, Landscape, Mountains, Sunburst, Wave and Arcs.
 
 
+![Collage](/images/1%20Flowers.jpg)
+
+Examples of Deco Rose, Hydrangea, Flower, Lily, Poinsettia, Snowdrops and Crocuses.
+
+
+![Collage](/images/1%20Geometrics.jpg)
+
+Examples of Circles, Blocks, Windmill, Net, Mondrian, Frank Lloyd Wright and Fibonacci.
+
+
+![Collage](/images/1%20Leaves.jpg)
+
+Examples of Agate, Heart, Monstera, Fern, Ivy, Union Flag, Football, Icosahedron, Penrose Triangle, Cross.
+
+
+![Collage](/images/1%20Roses.jpg)
+
+Examples of Yorkshire and Lancashire Roses, a Tudor Rose, Celtic Knot, Celtic Entwined Hearts, Celtic 2 Hearts, Rondels, Deco Motif and Deco Sunrays.
+
+![Collage](/images/1%20Water.jpg)
+![Collage](/images/1%20Misc.jpg)
