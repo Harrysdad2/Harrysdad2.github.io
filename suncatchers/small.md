@@ -44,4 +44,12 @@ Examples of Agate, Heart, Monstera, Fern, Ivy, Union Flag, Football, Icosahedron
 Examples of Yorkshire and Lancashire Roses, a Tudor Rose, Celtic Knot, Celtic Entwined Hearts, Celtic 2 Hearts, Rondels, Deco Motif and Deco Sunrays.
 
 ![Collage](/images/1%20Water.jpg)
+
+Examples of Crab, Squirrels (red and grey), Llama, Toad, Hare, Trout, Seahorse and Welsh Dragon.
+
+
 ![Collage](/images/1%20Misc.jpg)
+
+Examples of Yin & Yang, Sunflower, Rainbow, Snowflakes, Heart, Space, Star, Poppy, Agate and the logo for Rossett School in Harrogate!
+
+
