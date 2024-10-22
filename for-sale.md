@@ -9,7 +9,13 @@ permalink: /for-sale/
 <!---{: .notice }
 New shop under construction. Please check back soon.--->
 
-I now attend a number of local markets through the year and sell smaller pieces of work, with Christmas decorations and 
+I now attend a number of local markets through the year and sell smaller pieces of work, with Christmas decorations and a few larger pieces available.
+
+# Markets Calendar
+
+Sunday 17th November - Victoria Hall, Saltaire. Tilly & Primrose market.
+Saturday 30th November - The Springs Christmas Market, Thorpe Park, Leeds LS15 8GH.
+Saturday 7th December - Meanwood Market.
 
 I try to make my prices as realistic as possible. The cost of glass can vary enormously depending on colour, whether it is machine or hand made, patterns and finishes. Of course, the time taken to make an item is significant too. A small suncatcher takes two to five hours to make from start to finish. Larger ones can take considerably longer. They really are hand made and unique!
 
