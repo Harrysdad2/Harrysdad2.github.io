@@ -17,10 +17,10 @@ This section shows a step-by-step guide to making a 100mm diameter suncatcher.
 Step 1 - the idea and sketch. In this case my intial ideas were to try to replicate the fronds typical of a fern. It quickly became apparent that there would be too many pieces of glass, so an alternative idea was explored.
 ![Fern](/images/Fern1.jpg)
 
-Step 2 - the working design. This is used to transfer the shapes to the glass for cutting and assembly.
+Step 2 - the working design. I reduced the number of pieces to 8 (and then to 7 when I was cutting the glass!) with wire details to represent the fronds. This is used to transfer the shapes to the glass for cutting and assembly.
 ![Fern](/images/Fern2.jpg)
 
-Step 3 - The glass is cut and the edges ground to ensure a good light fit.
+Step 3 - The glass is cut and the edges ground to ensure a good tight fit.
 ![Fern](/images/Fern3.jpg)
 
 
