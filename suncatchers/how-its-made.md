@@ -40,9 +40,39 @@ Step 7 - A bead of solder is then added along each joint, leaving a few millimet
 ![Fern](/images/Fern7.jpg)
 
 
-Step 8 - The C-section edge came is then bent into a circle and cut to length.
+Step 8 - The C-section edge came is then bent into a circle and the length marked. The position of the hanging loop is also marked. 
 ![Fern](/images/Fern8.jpg)
 
 
-Step 9 - 
+Step 9 - Once cut, the lead is fitted again to check the length.
 ![Fern](/images/Fern9.jpg)
+
+
+Step 10 - 
+![Fern](/images/Fern10.jpg)
+
+
+Step 11 - 
+![Fern](/images/Fern11.jpg)
+
+
+Step 12 - 
+![Fern](/images/Fern12.jpg)
+
+
+Step 13 - 
+![Fern](/images/Fern13.jpg)
+
+
+Step 14 - 
+![Fern](/images/Fern14.jpg)
+
+
+Step 15 - 
+![Fern](/images/Fern15.jpg)
+
+
+Step 16 - 
+![Fern](/images/Fern16.jpg)
+
+
