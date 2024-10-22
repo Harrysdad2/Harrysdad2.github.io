@@ -16,7 +16,6 @@ This site is a gallery of glass creations made since 1996. There are a variety o
 
 Latest pieces are on Instagram at [@andys.glass](https://www.instagram.com/andys.glass){:target="_blank"} and my Facebook page [Andy's Glass](https://www.facebook.com/profile.php?id=100088442906461){:target="_blank"}
 
-
 ![Collage]({{ site.baseurl }}/images/Collage.jpg)
 
 
