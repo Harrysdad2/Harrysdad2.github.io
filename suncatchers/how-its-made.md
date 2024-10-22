@@ -66,7 +66,7 @@ I flux the hanging loop and, holding the catcher vertical, apply a bead of solde
 ![Fern](/images/Fern14.jpg)
 
 
-Step 15 - Once all is soldered, let everything cool down. Then wash the suncatcher - I use warm water, washing-up liquid and a small nail brush. The aim is to remove all traces of the flux and any adhesive from the foil that has seeped out when soldering. Dry the piece using a cloth.
+Step 15 - Let everything cool down. Then wash the suncatcher - I use warm water, washing-up liquid and a small nail brush. The aim is to remove all traces of the flux and any adhesive from the foil that has seeped out when soldering. Dry the piece using a cloth.
 I then applied a copper patina to this piece. Copper patina reacts with the tin in the solder so won't work on the lead edge. If you use black patina then it reacts with lead so will colour both the solder and the lead edge. Wearing gloves, I apply the patina with a cotton wool pad. If the reaction stops then just add more patina! Once done, give the piece another wash. This time use a soft brush to avoid abrading the patina.
 When everything is thoroughly dry then apply a polish. A hard wax polish is best on copper. On black a grate polish gives a lovely gunmetal shine. On silver I use Brasso!
 ![Fern](/images/Fern15.jpg)
