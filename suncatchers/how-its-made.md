@@ -24,25 +24,25 @@ Step 3 - The glass is cut and the edges ground to ensure a good light fit.
 ![Fern](/images/Fern3.jpg)
 
 
-Step 4 - Each piece of glass is wrapped in copper tape. Note that the edges of the circle are left uncovered as they will have the lead edge on later.
+Step 4 - Each piece of glass is wrapped in copper tape. Note that the edges of the circle are left uncovered as they will have the lead edge on later. Using the pattern, the pieces are placed together and solder is used to tack them into place.
 ![Fern](/images/Fern4.jpg)
 
 
-Step 5 - Using the pattern, the pieces are placed together and solder is used to tack them into place.
+Step 5 - All joints are soldered on both side of the piece.
 ![Fern](/images/Fern5.jpg)
 
 
-Step 6 - All joints are soldered on both side of the piece.
+Step 6 - Using thin tinned copper wire, the detail is added with each point that touches a joint tacked into place using solder.
 ![Fern](/images/Fern6.jpg)
 
 
-Step 7 - Using thin tinned copper wire, the detail is added with each point that touches a joint tacked into place using solder.
+Step 7 - A bead of solder is then added along each joint, leaving a few millimeters at each joint on the edge of the circle. This is to allow the lead to be fitted without needing adjustment at each joint.
 ![Fern](/images/Fern7.jpg)
 
 
-Step 8 - A bead of solder is then added along each joint, leaving a few millimeters at each joint on the edge of the circle. This is to allow the lead to be fitted without needing adjustment at each joint.
+Step 8 - The C-section edge came is then bent into a circle and cut to length.
 ![Fern](/images/Fern8.jpg)
 
 
-Step 9 - The C-section edge came is then bent into a circle and cut to length.
+Step 9 - 
 ![Fern](/images/Fern9.jpg)
