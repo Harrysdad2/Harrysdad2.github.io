@@ -21,7 +21,7 @@ Step 3 - The glass is cut and the edges ground to ensure a good tight fit.
 ![Fern](/images/Fern3.jpg)
 
 
-Step 4 - Each piece of glass is wrapped in copper tape. Note that the edges of the circle are left uncovered as they will have the lead edge on later. Using the pattern, the pieces are placed together and solder is used to tack them into place.
+Step 4 - Each piece of glass is wrapped in copper tape. Note that the edges of the circle are left uncovered as they will have the lead edge on later. Using the pattern, the pieces are placed together, the copper fluxed and solder is used to tack them into place.
 ![Fern](/images/Fern4.jpg)
 
 
