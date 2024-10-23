@@ -7,9 +7,6 @@ parent: Background
 
 # Crest
 
-{: .warning }
-TODO write
-
 My Aunty Sandra has spent a good deal of time researching our family tree. She had worked out who and when the Merckel family in the UK had originated from but not had any success linking that person back to Germany and our predecessors. However, she was contacted by Herr Herbert Merkel who had traced his own (and our!) lineage back to 1350 and provided the piece of the jigsaw that linked the German Merkel family to the UK Merckels. Herbert had written and published a chronology which he and Sandra updated and Sandra also produced a version translated into English.
 
 In summer 2018 we were going to Germany for our summer holiday and arranged to meet Herbert (my fourth cousin), his wife Heidi and his family at their home near Marburg in Hesse. We wanted to take a gift – but what? In his book, Herbert had made reference to a window with the Merkel family crest in it at a castle, [Schloss Wilhelmsburg,](https://www.museumwilhelmsburg.de/){:target="_blank"} in Schmalkalden, in Thuringia. The town is where the family originated and the castle has a hall that was restored using money from local families with a crest placed in the windows as a mark of their sponsorship. 
