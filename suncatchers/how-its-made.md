@@ -9,7 +9,12 @@ parent: Suncatchers
 
 I love making these small circular suncatchers. There are many suncatchers out there that are shaped as the subject matter and the patterns mean the finished suncatcher can be vulnerable to damage as a result. I like to fit the subject matter into a circle (or, in the case of Giraffe, an oval) with a lead came edge. It makes a nice strong item that will last many years. Most importantly for the market, these suncatchers can be sold at a price that is achievable to many people.
 
-This section shows a step-by-step guide to making a 100mm diameter suncatcher.
+This section shows a step-by-step guide to making a 100mm diameter suncatcher. 
+
+Materials referred to are: 
+Solder - an alloy of 60% tin and 40% solder used to join everything together.
+Flux - an acid that removed oxidation from the copper, lead and solder to allow them to fuse together properly and for the solder to flow.
+Lead Came - this is a lead extrusion used to edge the suncather. Came is available in different sections and sizes for a variety of purposes in building stained glass panels.
 
 Step 1 - the idea and sketch. In this case my intial ideas were to try to replicate the fronds typical of a fern. It quickly became apparent that there would be too many pieces of glass, so an alternative idea was explored.
 ![Fern](/images/Fern1.jpg)
@@ -61,7 +66,7 @@ Step 13 - With the lead fitted and loop in place, hold the lead ends together, b
 ![Fern](/images/Fern13.jpg)
 
 
-Step 14 - Clean the lead around the edges using the wire brush, apply flux and solder each joint to the lead. I do this by applying solder to the joint and then pushing it against the lead. You can see the solder melt into the lead and then remove the iron immediately. You can then tidy up the neading to yur own satisfaction. On this suncatcher each point where the wire touches the lead is also tacked into place. When you do the joint where the lead is soldered together you can tidy things up to get a neat join on the lead.  
+Step 14 - Clean the lead around the edges using the wire brush, apply flux and solder each joint to the lead. I do this by applying solder to the joint and then pushing it against the lead. You will see the solder melt into the lead and then remove the iron immediately. You can then tidy up the beading to your own satisfaction. On this suncatcher each point where the wire touches the lead is also tacked into place. When you do the joint where the lead is soldered together you can tidy things up to get a neat join on the lead.  
 I flux the hanging loop and, holding the catcher vertical, apply a bead of solder to the top and let it run around the hoop to join everything together. Then apply a small 'collar' of solder between the bottom of the hoop and the lead to make everything neat and strong.
 ![Fern](/images/Fern14.jpg)
 
