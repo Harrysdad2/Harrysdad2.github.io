@@ -13,11 +13,11 @@ I now attend a number of local markets through the year and sell smaller pieces 
 
 # Markets Calendar
 
-Sunday 17th November - Tilly & Primrose at Victoria Hall, Saltaire.
+Sunday 17th November 2024 - Tilly & Primrose at Victoria Hall, Saltaire.
 
-Saturday 30th November - The Springs Christmas Market, Thorpe Park, Leeds LS15 8GH.
+Saturday 30th November 2024 - The Springs Christmas Market, Thorpe Park, Leeds LS15 8GH.
 
-Saturday 7th December - Meanwood Market.
+Saturday 7th December 2024 - Meanwood Market.
 
 
 
