@@ -13,7 +13,7 @@ This section shows a step-by-step guide to making a 100mm diameter suncatcher.
 
 Materials referred to are: 
 
-Solder - an alloy of 60% tin and 40% lead used to join everything togetherby melting it with a soldering iron.
+Solder - an alloy of 60% tin and 40% lead used to join everything together by melting it with a soldering iron.
 
 Flux - an acid that removes oxidation from the copper, lead and solder to allow them to fuse together properly and for the solder to flow.
 
