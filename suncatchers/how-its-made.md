@@ -13,11 +13,11 @@ This section shows a step-by-step guide to making a 100mm diameter suncatcher.
 
 Materials referred to are: 
 
-Solder - an alloy of 60% tin and 40% solder used to join everything together.
+Solder - an alloy of 60% tin and 40% lead used to join everything togetherby melting it with a soldering iron.
 
-Flux - an acid that removed oxidation from the copper, lead and solder to allow them to fuse together properly and for the solder to flow.
+Flux - an acid that removes oxidation from the copper, lead and solder to allow them to fuse together properly and for the solder to flow.
 
-Lead Came - this is a lead extrusion used to edge the suncather. Came is available in different sections and sizes for a variety of purposes in building stained glass panels.
+Lead Came - this is a lead extrusion used to edge the suncatcher. Came is available in different sections and sizes for a variety of purposes in building stained glass panels.
 
 Step 1 - the idea and sketch. In this case my intial ideas were to try to replicate the fronds typical of a fern. It quickly became apparent that there would be too many pieces of glass, so an alternative idea was explored.
 ![Fern](/images/Fern1.jpg)
