@@ -51,7 +51,7 @@ At this point check to ensure that you glass pattern and the rebate match!
 
 If the wood is reclaimed then some repairs may be needed. 
 
-•	Nail/screw holes. I drill through the hole and then glue/hammer a piece of softwood dowel through. It can be trimmed when dry. For small screw holes (from when fixing the template) simply cut some small pegs and glue/hammer them in. The aim is to leave no holes where water can site or insects get into the wood.
+•	Nail/screw holes. I drill through the hole and then glue/hammer a piece of softwood dowel through. It can be trimmed when dry. For small screw holes (from when fixing the template) simply cut some small pegs and glue/hammer them in. The aim is to leave no holes where water can sit or where insects could get into the wood.
 
 ![How To 14](/images/14%20repair.jpg)
 
@@ -60,6 +60,9 @@ If the wood is reclaimed then some repairs may be needed.
 Now is the fun bit! The aim now is to shape and smooth the wood as you see fit. In my garden its power-tool mayhem. To shape the edge of the wood I use a jig-saw and a hand saw to remove large amounts of material. I use a planer to smooth the main surfaces. Keep the back reasonably flat and do not remove too much material. The rebate needs to maintain the depth already cut. For smoothing/shaping corners etc, I use flap-wheels on an angle-grinder. This is quick but very messy! A coarse wheel removes material very quickly so be careful! You can use progressively smooth sandpapers, by hand or a power-sander, to shape and smooth the wood as you desire.
 
 ![How To 6](/images/6%20shaped.jpg)
+
+Feel free to reduce the thickness of the timber towards the top, too.
+
 ![How To 7](/images/7%20shaped.jpg)
 
 5.	Protecting the Wood and Making a Base.
