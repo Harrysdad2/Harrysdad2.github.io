@@ -10,4 +10,4 @@ grand_parent: Obelisks
 
 I made this obelisk in Spring 2023 for a local client. It was a bit different in that there are three separate holes in the timber. 
 
-![Sunburst Obelisk](/images/obelisks.jpg)
+![S Obelisk](/images/s-obelisk.jpg)
