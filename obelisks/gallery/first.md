@@ -8,9 +8,6 @@ grand_parent: Obelisks
 
 # The First Obelisk
 
-{: .warning }
-TODO check
-
 Made from a reclaimed timber ridge beam that’s about 11”x 3” cross section. The houses were built in the 1930s and the timber is pitch pine.
 
 ![Obelisk  1 Glass](/images/obelisk1glass.jpg)
