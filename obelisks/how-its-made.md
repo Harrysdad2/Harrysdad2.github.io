@@ -15,7 +15,7 @@ If you are using reclaimed timber then the first step is to find and remove ALL 
 
 Note: 3” thick wood is thick! Cutting through it requires some perseverance and care when using DIY hand-tools. I like using it because it gives a deep frame for the colours in the glass to be projected onto. However, a thinner piece of wood will work well and can be significantly easier to work on.
 
-![How To 2](/images/2 timber.jpg)
+![How To 2](/images/2%20timber.jpg)
 
 2.	Sketches and decisions.
 
