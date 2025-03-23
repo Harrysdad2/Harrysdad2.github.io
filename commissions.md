@@ -12,9 +12,9 @@ Typically a small tiffany-style piece will be £25 to £35 but some more complex
 
 Contact me on [andysglass252@gmail.com](mailto:andysglass252@gmail.com) if you would like to look at the possibilities. 
 
-I've identified commissions of obelisks and larger suncatchers throughout the site and listed a few of them below. 
+I've identified commissions of obelisks and larger suncatchers throughout the site. 
 
-I like to get as much information as possible about what a customer would like, where the item is to go, particular colours etc. We'll agree a price (plus delivery) at this point and a deposit will be paid. I'll produce sketch designs and swap notes making changes as we go. If there are any significant changes during this process we may agree a revised price. It is vital that we both understand what is expected and that a client gets what they want! Once we have a design agreed then I'll draw up the working plan and start to gather glass. This is either from stock or I'll buy in particular pieces as required. I will share a set of photos as work progresses so that the customer can follow the process. Once complete the remaining payment is made and we arrange delivery. This may be in person or using a courier.
+I like to get as much information as possible about what a customer would like, where the item is to go, particular colours etc. We'll agree a price (plus delivery) at this point and a deposit will be paid. I'll produce sketch designs and swap notes making changes as we go. If there are any significant changes during this process we may agree a revised price. It is vital that we both understand what is expected and that a client gets what they want! Once we have a design agreed then I'll draw up the working plan and start to gather glass. This is either from stock or I'll buy in particular pieces as required. I will share a set of photos as work progresses so that the customer can follow the process. Once complete, the remaining payment is made and we arrange delivery. This may be in person or using a courier.
 
 
 
