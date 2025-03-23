@@ -45,6 +45,8 @@ If your wood is thinner then you can use a saw. A circular saw works for straigh
 
 Once the hole is cut then you can remove the template and turn the wood over. The next step is to cut a rebate around the edge of the hole. This will provide the ‘ledge’ for the glass panel to sit on. I do this using a 12mm rebate cutter. This tool has a bearing on the bottom that follows the edge of the hole and widens it out to form the rebate. The rebate needs to give the glass panel about 2mm clearance all the way round. This allows for any expansion in the wood when it gets wet.
 
+At this point check to ensure that you glass pattern and the rebate match!
+
 ![How To 5](/images/5%20rebate.jpg)
 
 If the wood is reclaimed then some repairs may be needed. 
