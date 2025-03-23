@@ -8,7 +8,7 @@ nav_exclude: true
 
 # How It's Done
 
-1.	Find some wood!
+1. Find some wood!
 
 I have been using bits of ridge beams removed from local houses when they have loft conversions. The houses were built in the 1930s, when timber was grown more slowly and was denser and stronger. The beams are pine so have some knots, splits and shakes. The wood is typically 11” wide, 3” thick and 3’6” to 4’ long.
 If you are using reclaimed timber then the first step is to find and remove ALL nails and screws from it. 
@@ -17,7 +17,7 @@ Note: 3” thick wood is thick! Cutting through it requires some perseverance an
 
 ![How To 2](/images/2%20timber.jpg)
 
-2.	Sketches and decisions.
+2. Sketches and decisions.
 
 Hopefully you have an idea of what you want your obelisk to look like. I have two loose groups. Formal and organic. Formal uses straight lines and organic is curves and, essentially, free-hand.
 
@@ -27,11 +27,11 @@ I like drawing on the wood with chalk to get a feel for how the piece will look 
 
 I have designed the glass and then cut the wood to suit: and I have cut the wood and then drawn the glass pattern to fit. Both work but I prefer the former!
 
-3.	Health and Safety.
+3. Health and Safety.
 
 Sawdust isn’t good for you. Aways wear a dust mask and safety glasses. Use vacuum extraction if your tools accommodate that.
 
-4.	Woodwork.
+4. Woodwork.
 
 If the front face of your wood is reasonably flat/smooth then the first task is to cut the hole. I use my wood router for this. It has a collar plate that allows you to follow a template and do repeated cuts along the same lines. Using the glass patter that you have sketched, transfer it to a sheet of ply or mdf that is slightly thicker than the collar depth on the router. Offset the edge of the pattern to suit the collar and cutter being used to ensure that the edge of the hole matches the visible part of the stained glass panel. See the cross-section sketch to check you have this right. I use a 12mm (1/2”) cutter.
 
@@ -65,7 +65,7 @@ Feel free to reduce the thickness of the timber towards the top, too.
 
 ![How To 7](/images/7%20shaped.jpg)
 
-5.	Protecting the Wood and Making a Base.
+5. Protecting the Wood and Making a Base.
 
 If your timber has been treated against fungal and insect attack then that’s it. If not then you can choose to treat it as you wish. I use a water-based wood waterproofing ‘paint’. You put a couple of coats on, the second whilst the first is still wet, and this helps the wood repel water when outside. 
 
@@ -79,7 +79,7 @@ You need to be aware that wood in the garden will, eventually, rot. The life of 
 
 Either way, it’s something you need to consider.
 
-6.	Stained Glass
+6. Stained Glass
 
 Go and do the bit you like – turn your pattern into a leaded stained glass panel 😊
 
@@ -88,7 +88,7 @@ Go and do the bit you like – turn your pattern into a leaded stained glass pan
 
 When it’s all done, cemented, cleaned etc, you can fit it to the obelisk!
 
-7.	Fitting the glass
+7. Fitting the glass
 
 Lay the obelisk face down. Carefully lay your panel into the rebate. If you have cut correctly, patterned properly and built it accurately then it will drop straight in!
 
@@ -108,7 +108,7 @@ For the organic shapes the beading will bend a limited amount all by itself. If 
 
 ![How To 10](/images/10%20beading.jpg)
 
-There is always an exception… On the S Obelisk the tips of the ‘S’ were tiny so I carved small blocks to take the bead around the tip and glued them in place.
+There is always an exception… On the 'S' Obelisk the tips of the ‘S’ were tiny so I carved small blocks to take the bead around the tip and glued them in place.
 
 ![How To 15](/images/15%20carved.jpg)
 
