@@ -8,7 +8,7 @@ nav_exclude: true
 
 # How It's Done
 
-1. Find some wood!
+Find some wood!
 
 I have been using bits of ridge beams removed from local houses when they have loft conversions. The houses were built in the 1930s, when timber was grown more slowly and was denser and stronger. The beams are pine so have some knots, splits and shakes. The wood is typically 11” wide, 3” thick and 3’6” to 4’ long.
 If you are using reclaimed timber then the first step is to find and remove ALL nails and screws from it. 
@@ -17,7 +17,7 @@ Note: 3” thick wood is thick! Cutting through it requires some perseverance an
 
 ![How To 2](/images/2%20timber.jpg)
 
-2. Sketches and decisions.
+Sketches and decisions.
 
 Hopefully you have an idea of what you want your obelisk to look like. I have two loose groups. Formal and organic. Formal uses straight lines and organic is curves and, essentially, free-hand.
 
@@ -27,11 +27,11 @@ I like drawing on the wood with chalk to get a feel for how the piece will look 
 
 I have designed the glass and then cut the wood to suit: and I have cut the wood and then drawn the glass pattern to fit. Both work but I prefer the former!
 
-3. Health and Safety.
+Health and Safety.
 
 Sawdust isn’t good for you. Aways wear a dust mask and safety glasses. Use vacuum extraction if your tools accommodate that.
 
-4. Woodwork.
+4 Woodwork.
 
 If the front face of your wood is reasonably flat/smooth then the first task is to cut the hole. I use my wood router for this. It has a collar plate that allows you to follow a template and do repeated cuts along the same lines. Using the glass patter that you have sketched, transfer it to a sheet of ply or mdf that is slightly thicker than the collar depth on the router. Offset the edge of the pattern to suit the collar and cutter being used to ensure that the edge of the hole matches the visible part of the stained glass panel. See the cross-section sketch to check you have this right. I use a 12mm (1/2”) cutter.
 
