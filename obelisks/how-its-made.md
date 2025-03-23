@@ -93,7 +93,7 @@ Pin the panel in place using stainless steel panel pins and then run a bead of s
 
 I use wooden beading, typically the 6mm x 12mm softwood bought in 2.4m lengths from the DIY store. For shapes with straight sides simply cut to length and fix to the obelisk using stainless steel panel pins. I predrill the hole through the beading to prevent splits and drive the pin into the wood using a nail-punch. 
 
-![How To 12](/images/1%20bead.jpg)
+![How To 12](/images/12%20bead.jpg)
 
 For the organic shapes the beading will bend a limited amount all by itself. If you go too far it will crack! You can soak it in hot water for a few minutes and then it will bend further. For the sharp bends top and bottom I’ve used a couple of solutions to get the beading to bend far enough (doubtless those with steamers will be laughing at me at this point but there are things that would be too difficult/expensive for what I want to achieve!). 
 
