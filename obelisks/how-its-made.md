@@ -89,7 +89,7 @@ Lay the obelisk face down. Carefully lay your panel into the rebate. If you have
 
 There are a couple of ways to fix the glass in place:
 
-Pin the panel in place using stainless steel panel pins and then run a bead of silicon all the way round. Personally, I find it very difficult to get this looking neat and I suspect that using silicon may not be very long-lived on an obelisk that stays in the garden.
+You can pin the panel in place using stainless steel panel pins and then run a bead of silicon all the way round. Personally, I find it very difficult to get this looking neat and I suspect that using silicon may not be very long-lived on an obelisk that stays in the garden.
 
 I use wooden beading, typically the 6mm x 12mm softwood bought in 2.4m lengths from the DIY store. For shapes with straight sides simply cut to length and fix to the obelisk using stainless steel panel pins. I predrill the hole through the beading to prevent splits and drive the pin into the wood using a nail-punch. 
 
