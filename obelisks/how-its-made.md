@@ -81,7 +81,7 @@ Either way, it’s something you need to consider.
 
 6.	Stained Glass
 
-Go and do the bit you like – build a leaded stained glass panel 😊
+Go and do the bit you like – turn your pattern into a leaded stained glass panel 😊
 
 ![How To 1](/images/1%20pattern.jpg)
 ![How To 8](/images/8%20panel.jpg)
