@@ -8,7 +8,7 @@ nav_exclude: true
 
 # How It's Done
 
-<u>Find some wood!
+<u>Find some wood!<u>
 
 I have been using bits of ridge beams removed from local houses when they have loft conversions. The houses were built in the 1930s, when timber was grown more slowly and was denser and stronger. The beams are pine so have some knots, splits and shakes. The wood is typically 11” wide, 3” thick and 3’6” to 4’ long.
 If you are using reclaimed timber then the first step is to find and remove ALL nails and screws from it. 
