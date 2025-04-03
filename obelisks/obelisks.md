@@ -9,7 +9,6 @@ permalink: /obelisks/
 # Obelisks
 
 
-
 I’ve always liked the stained glass art where glass is set into a large piece of driftwood and stood vertically in the ground.
 
 The roofs of the houses we live in have a big heavy timber ridge beam that’s about 11”x 3” cross section. When lofts are converted, the beam is removed and replaced with a steel beam. I thought that a length of this beam could be used with a piece of stained glass and be shaped (carved, even) to be a little more interesting. 
