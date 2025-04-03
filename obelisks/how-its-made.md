@@ -3,7 +3,6 @@ layout: default
 title: How It's Done
 nav_order: 4
 // parent: Obelisks
-nav_exclude: true
 ---
 
 # How It's Done
