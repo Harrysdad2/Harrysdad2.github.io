@@ -2,7 +2,7 @@
 layout: default
 title: How It's Done
 nav_order: 2
-parent: /Obelisks/
+parent: Obelisks
 ---
 
 # How It's Done
