@@ -117,6 +117,6 @@ The bead will likely be proud of the surrounding wood by a couple of millimeters
 
 Finally, put your obelisk on its base and enjoy!
 
-![How To 11](/images11%20finished.jpg)
+![How To 11](/images/11%20finished.jpg)
 
 
