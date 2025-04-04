@@ -52,13 +52,13 @@ At this point check to ensure that you glass pattern and the rebate match!
 
 If the wood is reclaimed then some repairs may be needed. 
 
-•	Nail/screw holes. I drill through the hole and then glue/hammer a piece of softwood dowel through. It can be trimmed when dry. For small screw holes (from when fixing the template) simply cut some small pegs and glue/hammer them in. The aim is to leave no holes where water can sit or where insects could get into the wood.
+•	Nail/screw holes. I drill through the hole and then glue/hammer a length of softwood dowel through. It can be trimmed when dry. For small screw holes (from when you attached the template) simply cut some small pegs and glue/hammer them in. The aim is to leave no holes where water can sit or where insects could get into the wood.
 
 ![How To 14](/images/14%20repair.jpg)
 
-•	Splits. It’s inevitable that older wood gets splits in it. They tend to be where the grain has opened up over a short length and as long as they are not too deep they are fixable. Through trial and error I’ve now worked out that you can fill them with epoxy resin and then they stay stable into the future. Epoxy resin comes in various forms (think araldite where you mix a resin with a hardener). The slow set is like water and the five minute set is like toffee! I buy the 30 minute set variant. This is liquid enough to get into the cracks but thick enough not to soak into the wood and disappear. On a larger crack you may need to let the first application set and then top it up. The hardened epoxy will cut, sand and plane without damaging tools. When I made the oak obelisk there were cracks running right through the piece so I had to seal them with blu-tack on one side, apply epoxy from the other side and then remove the blu-tack and clean it up. It took ages! 
+•	Splits. It’s inevitable that older wood gets splits in it. They are where the grain has opened up over a short length and as long as they are not too deep they are fixable. Through trial and error I’ve now worked out that you can fill them with epoxy resin and then they stay stable into the future. Epoxy resin comes in various forms (think araldite where you mix a resin with a hardener). The slow set is like water and the five minute set is like toffee! I buy the 30 minute set variant. This is liquid enough to get into the cracks but thick enough not to soak into the wood and disappear. On a larger crack you may need to let the first application set and then top it up. The hardened epoxy will cut, sand and plane without damaging tools. When I made the oak obelisk there were cracks running right through the piece so I had to seal them with blu-tack on one side, apply epoxy from the other side and then remove the blu-tack and clean it up. It took ages! 
 
-Now is the fun bit! The aim now is to shape and smooth the wood as you see fit. In my garden its all the toys out and power-tool mayhem 😊. To shape the edge of the wood I use a jig-saw and a hand saw to remove large amounts of material. I use a planer to smooth the main surfaces. Keep the back reasonably flat and do not remove too much material because the rebate needs to maintain the depth already cut. For smoothing/shaping corners etc, I use flap-wheels on an angle-grinder. This is quick but very messy! A coarse wheel removes material very quickly so be careful! You can use progressively smooth sandpapers, by hand or a power-sander, to shape and smooth the wood as you desire.
+Now is the fun bit! The aim now is to shape and smooth the wood as you see fit. In my garden its all the toys out and power-tool mayhem 😊. To shape the edge of the wood I use a jig-saw and a hand saw to remove large amounts of material. I use a planer to smooth the main surfaces. Keep the back reasonably flat and do not remove too much material because the rebate needs to maintain the depth already cut but feel free to thin it from the front. For smoothing/shaping corners etc, I use flap-wheels on an angle-grinder. This is quick but very messy! A coarse wheel removes material very quickly so be careful! You can use progressively smoother flap wheels and sandpapers, by hand or using a power-sander, to shape and smooth the wood as you desire.
 
 ![How To 6](/images/6%20shaped.jpg)
 
@@ -79,6 +79,8 @@ You need to be aware that wood in the garden will, eventually, rot. The life of 
 •	Fix the obelisk to a concrete base. This is easier than it sounds! 
 
 Either way, it’s something you need to consider.
+
+Note that I have two obelisks in my garden. One has been 'planted' (like a fence post) for 5 years with no issues. The other was planted but when it started to decay at the base I took it out, cut the rotten wood off and then set it on a base. Don't be too precious about the inevitable = you can always remove the glass panel and set it into new wood!!
 
 <u>Stained Glass</u>
 
