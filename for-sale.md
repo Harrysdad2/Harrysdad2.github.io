@@ -13,12 +13,13 @@ I now attend a number of local markets through the year and sell smaller pieces 
 
 # Markets Calendar
 
-Sunday 17th November 2024 - Tilly & Primrose at Victoria Hall, Saltaire.
+Saturday 17th May 2025 - Meanwood Market.
 
-Saturday 30th November 2024 - The Springs Christmas Market, Thorpe Park, Leeds LS15 8GH.
+Saturday 21st June 2025 - Meanwood Market (TBC).
 
-Saturday 7th December 2024 - Meanwood Market.
+Sunday 29th June 2025 - Bee Crafty, Wetherby Drovers Day, Wetherby Town Hall.
 
+Sunday 13th July 2025 - Boston Spa Festival, Boston Spa Village Hall (TBC).
 
 
 I try to make my prices as realistic as possible. The cost of glass can vary enormously depending on colour, whether it is machine or hand made, patterns and finishes. Of course, the time taken to make an item is significant too. A small suncatcher takes two to five hours to make from start to finish. Larger ones can take considerably longer. They really are hand made and unique!
