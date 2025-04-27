@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How It's Done
+title: Butterflies
 nav_order: 6
 parent: Suncatchers
 ---
