@@ -16,8 +16,8 @@ This picture shows the four panels with white paper behind to show the pattern:
 
 ![Lantern](/images/lantern1.jpg)
 
-Pictures of the lantern with a large candle inside.
+Pictures of the lantern with a diffused led bulb inside.
 
-![Lantern](/images/lantern 1.jpg)
+![Lantern](/images/lantern2.jpg)
 
 This is a design I may repeat using opaque glasses, so that the pattern is illuminated without the inside being visible.
