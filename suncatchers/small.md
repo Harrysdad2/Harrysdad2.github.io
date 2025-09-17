@@ -52,6 +52,6 @@ Examples of Crab, Squirrels (red and grey), Llama, Toad, Hare, Trout, Seahorse a
 
 Examples of Yin & Yang, Sunflower, Rainbow, Snowflakes, Heart, Space, Star, Poppy, Agate and the logo for Rossett School in Harrogate!
 
-![Collage](/images/1%20suncatchers7.jpg)
+![Collage](/images/suncatchers7.jpg)
 
 Examples of Monstera Leaves, Cats, Frog, Highland Coo and a Ukranian Trizub.
