@@ -6,9 +6,9 @@ permalink: /commissions/
 
 # Commissions
 
-I am always happy to talk about something you may like, either related to something you’ve seen on these pages or to help realise an idea that you may have. Please be assured that if I think it is beyond my capabilities I will tell you!
+I am always happy to talk about something you may like, either related to something you’ve seen on these pages or to help realise an idea that you may have. Please be assured that if I think it is beyond my capabilities I will tell you! Depending on workload, there may be a wait for me to be able work on your piece.
 
-Typically a small tiffany-style piece will be £25 to £35 but some more complex patterns cost a little more. A larger suncatcher will depend on size and complexity, but is likely to be £50 to £250. An obelisk will be between £250 and £700, based on complexity of the glass and the timber requirements. Windows depend on the size and degree of work involved.
+Typically a small tiffany-style piece will be £30 to £40 but some more complex patterns cost a little more. A larger suncatcher will depend on size and complexity, but is likely to be £50 to £250. An obelisk will be between £250 and £700, based on complexity of the glass and the timber requirements. Windows depend on the size and degree of work involved.
 
 Contact me on [andysglass252@gmail.com](mailto:andysglass252@gmail.com) if you would like to look at the possibilities. 
 
