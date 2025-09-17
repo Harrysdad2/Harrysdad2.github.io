@@ -14,10 +14,10 @@ The pattern is based on a mix of 'Autumn' and 'Poplars' both involving trees and
 
 This picture shows the four panels with white paper behind to show the pattern:
 
-![Lantern](/images/lantern 1.jpg)
+![Lantern](/images/lantern%1.jpg)
 
 Pictures of the lantern with a large candle inside.
 
-![Lantern](/images/****.jpg)
+![Lantern](/images/lantern 1.jpg)
 
 This is a design I may repeat using opaque glasses, so that the pattern is illuminated without the inside being visible.
