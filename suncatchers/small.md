@@ -7,7 +7,7 @@ parent: Suncatchers
 
 # Small Suncatchers
 
-My small suncatchers are 100mm diameter. Below are a series of pictures of ones made to date. All of these can be made to order and most cost £25 to £35. A few of the very complex ones are a little more. If you have a specific subject in mind then contact me and I will see what I can do!
+My small suncatchers are 100mm diameter. Below are a series of pictures of ones made to date. All of these can be made to order and most cost £30 to £40. A few of the very complex ones are a little more. If you have a specific subject in mind then contact me and I will see what I can do!
 
 ![Collage](/images/1%20Animals.jpg)
 
@@ -52,4 +52,6 @@ Examples of Crab, Squirrels (red and grey), Llama, Toad, Hare, Trout, Seahorse a
 
 Examples of Yin & Yang, Sunflower, Rainbow, Snowflakes, Heart, Space, Star, Poppy, Agate and the logo for Rossett School in Harrogate!
 
+![Collage](/images/1%20suncatchers7.jpg)
 
+Examples of Monstera Leaves, Cats, Frog, Highland Coo and a Ukranian Trizub.
