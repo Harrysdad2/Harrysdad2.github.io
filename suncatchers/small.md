@@ -54,4 +54,4 @@ Examples of Yin & Yang, Sunflower, Rainbow, Snowflakes, Heart, Space, Star, Popp
 
 ![Collage](/images/suncatchers7.jpg)
 
-Examples of Monstera Leaves, Cats, Frog, Highland Coo and a Ukranian Trizub.
+Examples of Monstera Leaves, Cats, Silver Fox, Frog, Highland Coo and a Ukranian Trizub.
