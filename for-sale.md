@@ -13,8 +13,6 @@ I now attend a number of local markets through the year and sell smaller pieces 
 
 # Markets Calendar
 
-Saturday 20th September 2025 - Meanwood Market.
-
 Saturday 18th & Sunday 19th October 2025 - East Keswick Art Fair (at Bardsey Village Hall).
 
 Saturday 15th November 2025 - Meanwood Market.
