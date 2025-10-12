@@ -6,6 +6,8 @@ permalink: /commissions/
 
 # Commissions
 
+OCTOBER 2025 - I am unable to accept any commissions for obelisks or other larger projects until early 2026. I am still able to work on small suncatchers to order.
+
 I am always happy to talk about something you may like, either related to something you’ve seen on these pages or to help realise an idea that you may have. Please be assured that if I think it is beyond my capabilities I will tell you! Depending on workload, there may be a wait for me to be able work on your piece.
 
 Typically a small tiffany-style piece will be £30 to £40 but some more complex patterns cost a little more. A larger suncatcher will depend on size and complexity, but is likely to be £50 to £250. An obelisk will be between £250 and £700, based on complexity of the glass and the timber requirements. Windows depend on the size and degree of work involved.
