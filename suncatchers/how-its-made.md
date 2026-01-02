@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How It's Done
-nav_order: 7
+nav_order: 8
 parent: Suncatchers
 ---
 
