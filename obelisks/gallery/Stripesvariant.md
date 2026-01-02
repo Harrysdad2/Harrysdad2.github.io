@@ -9,4 +9,4 @@ grand_parent: Obelisks
 # Stripes Variant
 
 I made this obelisk in Summer 2025 for the family of a friend.
-![Water Drops](/images/Lisa.jpg)
+![Stripes Variant](/images/Lisa.jpg)
