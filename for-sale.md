@@ -13,13 +13,25 @@ I now attend a number of local markets through the year and sell smaller pieces 
 
 # Markets Calendar
 
-Saturday 18th & Sunday 19th October 2025 - East Keswick Art Fair (at Bardsey Village Hall).
+Saturday 21st March 2026 - Meanwood Market.
 
-Saturday 15th November 2025 - Meanwood Market.
+Saturday 18th April 2026 - Meanwood Market.
 
-Saturday 6th December 2025 - Meanwood Market.
+Saturday 2nd May 2026 - Oakwood Artisan Market.
 
-Sunday 14th December 2025 - Bee Crafty, Wetherby Dickensian Fair, Wetherby Town Hall.
+Saturday 6th June 2026 - Oakwood Artisan Market.
+
+Saturday 18th July 2026 - Meanwood Market.
+
+Saturday 15th August 2026 - Meanwood Market.
+
+Saturday 5th September 2026 - Oakwood Artisan Market.
+
+Saturday 17th October 2026 - Meanwood Market.
+
+Saturday 7th November 2026 - Oakwood Artisan Market.
+
+Christmas TBC!
 
 I try to make my prices as realistic as possible. The cost of glass can vary enormously depending on colour, whether it is machine or hand made, patterns and finishes. Of course, the time taken to make an item is significant too. A small suncatcher takes two to five hours to make from start to finish. Larger ones can take considerably longer. They really are hand made and unique!
 
