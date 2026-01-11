@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stuff For Sale
+title: Stuff For Sale and Markets
 permalink: /for-sale/
 ---
 
