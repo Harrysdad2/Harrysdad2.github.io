@@ -13,23 +13,14 @@ I now attend a number of local markets through the year and sell smaller pieces 
 
 # Markets Calendar
 
-Saturday 21st March 2026 - Meanwood Market.
-
-Saturday 18th April 2026 - Meanwood Market.
-
-Saturday 2nd May 2026 - Oakwood Artisan Market.
-
-Saturday 6th June 2026 - Oakwood Artisan Market.
-
-Saturday 18th July 2026 - Meanwood Market.
 
 Saturday 15th August 2026 - Meanwood Market.
 
-Saturday 5th September 2026 - Oakwood Artisan Market.
+Saturday 17th & Sunday 18th October 2026 - East Keswick Art Show.
 
-Saturday 17th October 2026 - Meanwood Market.
+Friday TBC November 2026 - Meanwood Christmas Lights Switch-on
 
-Saturday 7th November 2026 - Oakwood Artisan Market.
+Saturday 21st November 2026 - Meanwood Market.
 
 Christmas TBC!
 
